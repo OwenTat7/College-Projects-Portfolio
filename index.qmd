@@ -4,9 +4,21 @@ description: Portfolio of projects, videos, and documents
 page-layout: article
 ---
 
+<div class="hero">
+  <div class="hero-content">
+    <h1>Owen Tatlonghari</h1>
+    <p class="subtitle">Data-driven student showcasing projects in analytics, modeling, and communication.</p>
+    <div class="hero-actions">
+      <a class="btn btn-primary" href="#projects">View Projects</a>
+      <a class="btn btn-outline" href="https://github.com/your-username" target="_blank">GitHub</a>
+      <a class="btn btn-outline" href="https://linkedin.com/in/your-handle" target="_blank">LinkedIn</a>
+    </div>
+  </div>
+</div>
+
 ## Creative Video Project — Freshman Year
 
-<div class="project-card">
+<div class="project-card" id="projects">
   <div class="project-media">
     <div class="video-embed">
       <iframe width="100%" height="315" src="https://www.youtube.com/watch?v=2V-NbOLcYc0" title="Freshman Year Proffesional Presentation Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

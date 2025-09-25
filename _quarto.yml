@@ -15,5 +15,5 @@ website:
         text: About
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
