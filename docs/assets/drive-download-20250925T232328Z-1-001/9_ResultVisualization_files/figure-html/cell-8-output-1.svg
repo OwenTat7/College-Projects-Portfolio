@@ -1,0 +1,563 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360pt" height="200pt" viewBox="0.00 0.00 360.00 200.36">
+<g id="graph0" class="graph" transform="scale(0.32316 0.32316) rotate(0) translate(4 616)">
+<title>G</title>
+<!-- AgeCategory -->
+<g id="node1" class="node">
+<title>AgeCategory</title>
+<g id="a_node1"><a xlink:title="(9) AgeCategory">
+<ellipse fill="#404040" stroke="#4a4a4a" cx="350" cy="-522" rx="60.05" ry="18"/>
+<text text-anchor="middle" x="350" y="-516.95" font-family="Times,serif" font-size="14.00" fill="white">AgeCategory</text>
+</a>
+</g>
+</g>
+<!-- Smoking -->
+<g id="node2" class="node">
+<title>Smoking</title>
+<g id="a_node2"><a xlink:title="(2) Smoking">
+<ellipse fill="#404040" stroke="#4a4a4a" cx="373" cy="-450" rx="44.7" ry="18"/>
+<text text-anchor="middle" x="373" y="-444.95" font-family="Times,serif" font-size="14.00" fill="white">Smoking</text>
+</a>
+</g>
+</g>
+<!-- AgeCategory&#45;&gt;Smoking -->
+<g id="edge1" class="edge">
+<title>AgeCategory-&gt;Smoking</title>
+<g id="a_edge1"><a xlink:title="9 → 2">
+<path fill="none" stroke="#4a4a4a" d="M355.69,-503.7C358.14,-496.24 361.07,-487.32 363.81,-478.97"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="367.11,-480.14 366.91,-469.54 360.46,-477.95 367.11,-480.14"/>
+</a>
+</g>
+</g>
+<!-- Race -->
+<g id="node11" class="node">
+<title>Race</title>
+<g id="a_node11"><a xlink:title="(10) Race">
+<ellipse fill="#404040" stroke="#4a4a4a" cx="281" cy="-450" rx="29.34" ry="18"/>
+<text text-anchor="middle" x="281" y="-444.95" font-family="Times,serif" font-size="14.00" fill="white">Race</text>
+</a>
+</g>
+</g>
+<!-- AgeCategory&#45;&gt;Race -->
+<g id="edge22" class="edge">
+<title>AgeCategory-&gt;Race</title>
+<g id="a_edge22"><a xlink:title="9 → 10">
+<path fill="none" stroke="#4a4a4a" d="M333.65,-504.41C324.68,-495.31 313.43,-483.9 303.63,-473.96"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="306.4,-471.78 296.89,-467.12 301.41,-476.69 306.4,-471.78"/>
+</a>
+</g>
+</g>
+<!-- SkinCancer -->
+<g id="node18" class="node">
+<title>SkinCancer</title>
+<g id="a_node18"><a xlink:title="(17) SkinCancer">
+<ellipse fill="#404040" stroke="#4a4a4a" cx="672" cy="-450" rx="53.91" ry="18"/>
+<text text-anchor="middle" x="672" y="-444.95" font-family="Times,serif" font-size="14.00" fill="white">SkinCancer</text>
+</a>
+</g>
+</g>
+<!-- AgeCategory&#45;&gt;SkinCancer -->
+<g id="edge6" class="edge">
+<title>AgeCategory-&gt;SkinCancer</title>
+<g id="a_edge6"><a xlink:title="9 → 17">
+<path fill="none" stroke="#4a4a4a" d="M397.51,-510.67C455.89,-497.98 554.79,-476.48 616.58,-463.05"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="617.16,-466.5 626.18,-460.96 615.67,-459.66 617.16,-466.5"/>
+</a>
+</g>
+</g>
+<!-- RiskBehavior -->
+<g id="node6" class="node">
+<title>RiskBehavior</title>
+<g id="a_node6"><a xlink:title="(20) RiskBehavior">
+<ellipse fill="#404040" stroke="#4a4a4a" cx="276" cy="-378" rx="61.59" ry="18"/>
+<text text-anchor="middle" x="276" y="-372.95" font-family="Times,serif" font-size="14.00" fill="white">RiskBehavior</text>
+</a>
+</g>
+</g>
+<!-- Smoking&#45;&gt;RiskBehavior -->
+<g id="edge15" class="edge">
+<title>Smoking-&gt;RiskBehavior</title>
+<g id="a_edge15"><a xlink:title="2 → 20">
+<path fill="none" stroke="#4a4a4a" d="M351.95,-433.81C338.97,-424.44 322.08,-412.25 307.52,-401.75"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="309.74,-399.03 299.58,-396.02 305.64,-404.71 309.74,-399.03"/>
+</a>
+</g>
+</g>
+<!-- BMI -->
+<g id="node3" class="node">
+<title>BMI</title>
+<g id="a_node3"><a xlink:title="(1) BMI">
+<ellipse fill="#404040" stroke="#4a4a4a" cx="404" cy="-234" rx="28.83" ry="18"/>
+<text text-anchor="middle" x="404" y="-228.95" font-family="Times,serif" font-size="14.00" fill="white">BMI</text>
+</a>
+</g>
+</g>
+<!-- Sex -->
+<g id="node4" class="node">
+<title>Sex</title>
+<g id="a_node4"><a xlink:title="(8) Sex">
+<ellipse fill="#404040" stroke="#4a4a4a" cx="131" cy="-522" rx="27" ry="18"/>
+<text text-anchor="middle" x="131" y="-516.95" font-family="Times,serif" font-size="14.00" fill="white">Sex</text>
+</a>
+</g>
+</g>
+<!-- PhysicalActivity -->
+<g id="node5" class="node">
+<title>PhysicalActivity</title>
+<g id="a_node5"><a xlink:title="(12) PhysicalActivity">
+<ellipse fill="#404040" stroke="#4a4a4a" cx="533" cy="-234" rx="72.34" ry="18"/>
+<text text-anchor="middle" x="533" y="-228.95" font-family="Times,serif" font-size="14.00" fill="white">PhysicalActivity</text>
+</a>
+</g>
+</g>
+<!-- AlcoholDrinking -->
+<g id="node13" class="node">
+<title>AlcoholDrinking</title>
+<g id="a_node13"><a xlink:title="(3) AlcoholDrinking">
+<ellipse fill="#404040" stroke="#4a4a4a" cx="231" cy="-306" rx="73.87" ry="18"/>
+<text text-anchor="middle" x="231" y="-300.95" font-family="Times,serif" font-size="14.00" fill="white">AlcoholDrinking</text>
+</a>
+</g>
+</g>
+<!-- RiskBehavior&#45;&gt;AlcoholDrinking -->
+<g id="edge30" class="edge">
+<title>RiskBehavior-&gt;AlcoholDrinking</title>
+<g id="a_edge30"><a xlink:title="20 → 3">
+<path fill="none" stroke="#4a4a4a" d="M265.11,-360.05C260.04,-352.18 253.9,-342.62 248.22,-333.79"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="251.28,-332.07 242.92,-325.55 245.39,-335.85 251.28,-332.07"/>
+</a>
+</g>
+</g>
+<!-- UnhealthyDays -->
+<g id="node7" class="node">
+<title>UnhealthyDays</title>
+<g id="a_node7"><a xlink:title="(19) UnhealthyDays">
+<ellipse fill="#404040" stroke="#4a4a4a" cx="217" cy="-162" rx="68.24" ry="18"/>
+<text text-anchor="middle" x="217" y="-156.95" font-family="Times,serif" font-size="14.00" fill="white">UnhealthyDays</text>
+</a>
+</g>
+</g>
+<!-- MentalHealth -->
+<g id="node10" class="node">
+<title>MentalHealth</title>
+<g id="a_node10"><a xlink:title="(6) MentalHealth">
+<ellipse fill="#404040" stroke="#4a4a4a" cx="714" cy="-90" rx="62.1" ry="18"/>
+<text text-anchor="middle" x="714" y="-84.95" font-family="Times,serif" font-size="14.00" fill="white">MentalHealth</text>
+</a>
+</g>
+</g>
+<!-- UnhealthyDays&#45;&gt;MentalHealth -->
+<g id="edge2" class="edge">
+<title>UnhealthyDays-&gt;MentalHealth</title>
+<g id="a_edge2"><a xlink:title="19 → 6">
+<path fill="none" stroke="#4a4a4a" d="M275.96,-152.7C369.21,-139.56 550.11,-114.08 647.73,-100.33"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="648,-103.83 657.42,-98.97 647.03,-96.9 648,-103.83"/>
+</a>
+</g>
+</g>
+<!-- SleepTime -->
+<g id="node14" class="node">
+<title>SleepTime</title>
+<g id="a_node14"><a xlink:title="(14) SleepTime">
+<ellipse fill="#404040" stroke="#4a4a4a" cx="217" cy="-90" rx="51.35" ry="18"/>
+<text text-anchor="middle" x="217" y="-84.95" font-family="Times,serif" font-size="14.00" fill="white">SleepTime</text>
+</a>
+</g>
+</g>
+<!-- UnhealthyDays&#45;&gt;SleepTime -->
+<g id="edge21" class="edge">
+<title>UnhealthyDays-&gt;SleepTime</title>
+<g id="a_edge21"><a xlink:title="19 → 14">
+<path fill="none" stroke="#4a4a4a" d="M217,-143.7C217,-136.41 217,-127.73 217,-119.54"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="220.5,-119.62 217,-109.62 213.5,-119.62 220.5,-119.62"/>
+</a>
+</g>
+</g>
+<!-- GenHealth -->
+<g id="node8" class="node">
+<title>GenHealth</title>
+<g id="a_node8"><a xlink:title="(13) GenHealth">
+<ellipse fill="#404040" stroke="#4a4a4a" cx="473" cy="-306" rx="50.84" ry="18"/>
+<text text-anchor="middle" x="473" y="-300.95" font-family="Times,serif" font-size="14.00" fill="white">GenHealth</text>
+</a>
+</g>
+</g>
+<!-- GenHealth&#45;&gt;BMI -->
+<g id="edge25" class="edge">
+<title>GenHealth-&gt;BMI</title>
+<g id="a_edge25"><a xlink:title="13 → 1">
+<path fill="none" stroke="#4a4a4a" d="M457,-288.76C447.91,-279.55 436.4,-267.87 426.43,-257.76"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="429.08,-255.46 419.57,-250.79 424.1,-260.37 429.08,-255.46"/>
+</a>
+</g>
+</g>
+<!-- GenHealth&#45;&gt;PhysicalActivity -->
+<g id="edge38" class="edge">
+<title>GenHealth-&gt;PhysicalActivity</title>
+<g id="a_edge38"><a xlink:title="13 → 12">
+<path fill="none" stroke="#4a4a4a" d="M487.22,-288.41C494.36,-280.08 503.17,-269.8 511.15,-260.49"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="513.63,-262.98 517.48,-253.11 508.32,-258.42 513.63,-262.98"/>
+</a>
+</g>
+</g>
+<!-- DiffWalking -->
+<g id="node20" class="node">
+<title>DiffWalking</title>
+<g id="a_node20"><a xlink:title="(7) DiffWalking">
+<ellipse fill="#404040" stroke="#4a4a4a" cx="832" cy="-234" rx="58" ry="18"/>
+<text text-anchor="middle" x="832" y="-228.95" font-family="Times,serif" font-size="14.00" fill="white">DiffWalking</text>
+</a>
+</g>
+</g>
+<!-- GenHealth&#45;&gt;DiffWalking -->
+<g id="edge26" class="edge">
+<title>GenHealth-&gt;DiffWalking</title>
+<g id="a_edge26"><a xlink:title="13 → 7">
+<path fill="none" stroke="#4a4a4a" d="M516.66,-296.49C580.78,-283.98 700.6,-260.62 772.65,-246.57"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="773.16,-250.04 782.3,-244.69 771.82,-243.17 773.16,-250.04"/>
+</a>
+</g>
+</g>
+<!-- PhysicalHealth -->
+<g id="node21" class="node">
+<title>PhysicalHealth</title>
+<g id="a_node21"><a xlink:title="(5) PhysicalHealth">
+<ellipse fill="#404040" stroke="#4a4a4a" cx="217" cy="-234" rx="66.71" ry="18"/>
+<text text-anchor="middle" x="217" y="-228.95" font-family="Times,serif" font-size="14.00" fill="white">PhysicalHealth</text>
+</a>
+</g>
+</g>
+<!-- GenHealth&#45;&gt;PhysicalHealth -->
+<g id="edge8" class="edge">
+<title>GenHealth-&gt;PhysicalHealth</title>
+<g id="a_edge8"><a xlink:title="13 → 5">
+<path fill="none" stroke="#4a4a4a" d="M433.56,-294.22C390.75,-282.51 322.02,-263.72 273.49,-250.45"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="274.57,-247.11 264,-247.85 272.72,-253.86 274.57,-247.11"/>
+</a>
+</g>
+</g>
+<!-- HeartDisease -->
+<g id="node9" class="node">
+<title>HeartDisease</title>
+<g id="a_node9"><a xlink:title="(0) HeartDisease">
+<ellipse fill="#404040" stroke="#4a4a4a" cx="514" cy="-594" rx="60.05" ry="18"/>
+<text text-anchor="middle" x="514" y="-588.95" font-family="Times,serif" font-size="14.00" fill="white">HeartDisease</text>
+</a>
+</g>
+</g>
+<!-- HeartDisease&#45;&gt;AgeCategory -->
+<g id="edge33" class="edge">
+<title>HeartDisease-&gt;AgeCategory</title>
+<g id="a_edge33"><a xlink:title="0 → 9">
+<path fill="none" stroke="#4a4a4a" d="M480.42,-578.67C455.43,-568 421.1,-553.35 393.94,-541.75"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="395.5,-538.62 384.93,-537.91 392.75,-545.05 395.5,-538.62"/>
+</a>
+</g>
+</g>
+<!-- HeartDisease&#45;&gt;Smoking -->
+<g id="edge3" class="edge">
+<title>HeartDisease-&gt;Smoking</title>
+<g id="a_edge3"><a xlink:title="0 → 2">
+<path fill="none" stroke="#4a4a4a" d="M497.55,-576.43C472.69,-551.4 425.42,-503.79 396.8,-474.97"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="399.51,-472.73 389.98,-468.1 394.54,-477.66 399.51,-472.73"/>
+</a>
+</g>
+</g>
+<!-- HeartDisease&#45;&gt;BMI -->
+<g id="edge19" class="edge">
+<title>HeartDisease-&gt;BMI</title>
+<g id="a_edge19"><a xlink:title="0 → 1">
+<path fill="none" stroke="#4a4a4a" d="M505.77,-575.86C486.07,-533.97 436.08,-422.6 413,-324 408.36,-304.19 406.11,-281.35 405.02,-263.77"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="408.52,-263.6 404.51,-253.79 401.53,-263.96 408.52,-263.6"/>
+</a>
+</g>
+</g>
+<!-- HeartDisease&#45;&gt;Sex -->
+<g id="edge12" class="edge">
+<title>HeartDisease-&gt;Sex</title>
+<g id="a_edge12"><a xlink:title="0 → 8">
+<path fill="none" stroke="#4a4a4a" d="M456.53,-588.33C387.85,-581.78 269.91,-567.46 172,-540 169.21,-539.22 166.35,-538.3 163.51,-537.3"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="164.79,-534.04 154.2,-533.71 162.27,-540.57 164.79,-534.04"/>
+</a>
+</g>
+</g>
+<!-- HeartDisease&#45;&gt;PhysicalActivity -->
+<g id="edge35" class="edge">
+<title>HeartDisease-&gt;PhysicalActivity</title>
+<g id="a_edge35"><a xlink:title="0 → 12">
+<path fill="none" stroke="#4a4a4a" d="M521.69,-575.91C532.79,-549.62 552,-497.45 552,-451 552,-451 552,-451 552,-377 552,-337.39 544.65,-292.11 539.09,-263.54"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="542.55,-262.98 537.14,-253.87 535.69,-264.37 542.55,-262.98"/>
+</a>
+</g>
+</g>
+<!-- HeartDisease&#45;&gt;RiskBehavior -->
+<g id="edge14" class="edge">
+<title>HeartDisease-&gt;RiskBehavior</title>
+<g id="a_edge14"><a xlink:title="0 → 20">
+<path fill="none" stroke="#4a4a4a" d="M457.38,-587.48C393.11,-580.12 293.61,-565.01 266,-540 229.63,-507.05 229.51,-479.19 243,-432 245.67,-422.66 250.51,-413.37 255.68,-405.24"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="258.41,-407.44 261.16,-397.21 252.63,-403.49 258.41,-407.44"/>
+</a>
+</g>
+</g>
+<!-- HeartDisease&#45;&gt;UnhealthyDays -->
+<g id="edge29" class="edge">
+<title>HeartDisease-&gt;UnhealthyDays</title>
+<g id="a_edge29"><a xlink:title="0 → 19">
+<path fill="none" stroke="#4a4a4a" d="M453.64,-593.34C346.53,-592.73 129.02,-585.73 71,-540 37.86,-513.89 38,-493.19 38,-451 38,-451 38,-451 38,-305 38,-240.43 110.38,-200.56 163.09,-180.09"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="164.11,-183.44 172.25,-176.66 161.66,-176.88 164.11,-183.44"/>
+</a>
+</g>
+</g>
+<!-- HeartDisease&#45;&gt;GenHealth -->
+<g id="edge28" class="edge">
+<title>HeartDisease-&gt;GenHealth</title>
+<g id="a_edge28"><a xlink:title="0 → 13">
+<path fill="none" stroke="#4a4a4a" d="M511.5,-575.54C504.65,-527.76 485.54,-394.51 477.1,-335.61"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="480.57,-335.13 475.69,-325.73 473.64,-336.13 480.57,-335.13"/>
+</a>
+</g>
+</g>
+<!-- HeartDisease&#45;&gt;MentalHealth -->
+<g id="edge34" class="edge">
+<title>HeartDisease-&gt;MentalHealth</title>
+<g id="a_edge34"><a xlink:title="0 → 6">
+<path fill="none" stroke="#4a4a4a" d="M572.82,-590.12C677.52,-584.32 891.61,-569.22 960,-540 1017.2,-515.56 1068,-513.2 1068,-451 1068,-451 1068,-451 1068,-233 1068,-170.93 878.16,-123.62 776.52,-102.73"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="777.45,-99.35 766.96,-100.8 776.06,-106.21 777.45,-99.35"/>
+</a>
+</g>
+</g>
+<!-- HeartDisease&#45;&gt;Race -->
+<g id="edge24" class="edge">
+<title>HeartDisease-&gt;Race</title>
+<g id="a_edge24"><a xlink:title="0 → 10">
+<path fill="none" stroke="#4a4a4a" d="M456.93,-588.05C395.18,-581.38 302.61,-567.07 281,-540 267.59,-523.2 268.76,-498.37 272.62,-479.21"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="275.99,-480.14 274.91,-469.6 269.18,-478.51 275.99,-480.14"/>
+</a>
+</g>
+</g>
+<!-- SleepCategory -->
+<g id="node12" class="node">
+<title>SleepCategory</title>
+<g id="a_node12"><a xlink:title="(21) SleepCategory">
+<ellipse fill="#404040" stroke="#4a4a4a" cx="630" cy="-18" rx="65.17" ry="18"/>
+<text text-anchor="middle" x="630" y="-12.95" font-family="Times,serif" font-size="14.00" fill="white">SleepCategory</text>
+</a>
+</g>
+</g>
+<!-- HeartDisease&#45;&gt;SleepCategory -->
+<g id="edge37" class="edge">
+<title>HeartDisease-&gt;SleepCategory</title>
+<g id="a_edge37"><a xlink:title="0 → 21">
+<path fill="none" stroke="#4a4a4a" d="M573.97,-591.55C689.46,-587.97 938.14,-576.17 1015,-540 1066.19,-515.91 1106,-507.57 1106,-451 1106,-451 1106,-451 1106,-161 1106,-77.83 835.79,-39.38 702.55,-25.47"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="703.06,-22.01 692.76,-24.47 702.35,-28.97 703.06,-22.01"/>
+</a>
+</g>
+</g>
+<!-- HeartDisease&#45;&gt;AlcoholDrinking -->
+<g id="edge32" class="edge">
+<title>HeartDisease-&gt;AlcoholDrinking</title>
+<g id="a_edge32"><a xlink:title="0 → 3">
+<path fill="none" stroke="#4a4a4a" d="M455.57,-589.4C383.15,-583.7 265.55,-570.02 235,-540 177.15,-483.16 186.67,-439 205,-360 207.06,-351.11 210.83,-342 214.87,-333.89"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="217.87,-335.72 219.51,-325.25 211.7,-332.41 217.87,-335.72"/>
+</a>
+</g>
+</g>
+<!-- HeartDisease&#45;&gt;SleepTime -->
+<g id="edge7" class="edge">
+<title>HeartDisease-&gt;SleepTime</title>
+<g id="a_edge7"><a xlink:title="0 → 14">
+<path fill="none" stroke="#4a4a4a" d="M453.57,-593.57C340.72,-593.48 103.49,-587.46 39,-540 4.22,-514.4 0,-494.19 0,-451 0,-451 0,-451 0,-233 0,-155.75 97.47,-118.27 161.76,-101.94"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="162.2,-105.44 171.09,-99.67 160.55,-98.63 162.2,-105.44"/>
+</a>
+</g>
+</g>
+<!-- Stroke -->
+<g id="node15" class="node">
+<title>Stroke</title>
+<g id="a_node15"><a xlink:title="(4) Stroke">
+<ellipse fill="#404040" stroke="#4a4a4a" cx="615" cy="-306" rx="34.97" ry="18"/>
+<text text-anchor="middle" x="615" y="-300.95" font-family="Times,serif" font-size="14.00" fill="white">Stroke</text>
+</a>
+</g>
+</g>
+<!-- HeartDisease&#45;&gt;Stroke -->
+<g id="edge23" class="edge">
+<title>HeartDisease-&gt;Stroke</title>
+<g id="a_edge23"><a xlink:title="0 → 4">
+<path fill="none" stroke="#4a4a4a" d="M534.94,-576.73C545.82,-567.17 558.39,-554.21 566,-540 584.91,-504.68 603.28,-389.26 611.08,-335.29"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="614.51,-336.06 612.45,-325.66 607.58,-335.07 614.51,-336.06"/>
+</a>
+</g>
+</g>
+<!-- Asthma -->
+<g id="node16" class="node">
+<title>Asthma</title>
+<g id="a_node16"><a xlink:title="(15) Asthma">
+<ellipse fill="#404040" stroke="#4a4a4a" cx="708" cy="-306" rx="40.09" ry="18"/>
+<text text-anchor="middle" x="708" y="-300.95" font-family="Times,serif" font-size="14.00" fill="white">Asthma</text>
+</a>
+</g>
+</g>
+<!-- HeartDisease&#45;&gt;Asthma -->
+<g id="edge36" class="edge">
+<title>HeartDisease-&gt;Asthma</title>
+<g id="a_edge36"><a xlink:title="0 → 15">
+<path fill="none" stroke="#4a4a4a" d="M569.53,-586.84C608.61,-580.3 660.58,-566.97 699,-540 731.31,-517.32 730.18,-501.54 751,-468 777.84,-424.77 813.2,-404.76 789,-360 780.21,-343.75 764.04,-331.68 748.44,-323.2"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="750.22,-320.18 739.71,-318.82 747.08,-326.44 750.22,-320.18"/>
+</a>
+</g>
+</g>
+<!-- ComorbidityCount -->
+<g id="node17" class="node">
+<title>ComorbidityCount</title>
+<g id="a_node17"><a xlink:title="(18) ComorbidityCount">
+<ellipse fill="#404040" stroke="#4a4a4a" cx="699" cy="-378" rx="81.04" ry="18"/>
+<text text-anchor="middle" x="699" y="-372.95" font-family="Times,serif" font-size="14.00" fill="white">ComorbidityCount</text>
+</a>
+</g>
+</g>
+<!-- HeartDisease&#45;&gt;ComorbidityCount -->
+<g id="edge39" class="edge">
+<title>HeartDisease-&gt;ComorbidityCount</title>
+<g id="a_edge39"><a xlink:title="0 → 18">
+<path fill="none" stroke="#4a4a4a" d="M560.92,-582.58C614.99,-567.68 700.78,-534.42 735,-468 745.6,-447.43 734.12,-423 721.39,-404.95"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="724.46,-403.21 715.64,-397.35 718.88,-407.44 724.46,-403.21"/>
+</a>
+</g>
+</g>
+<!-- HeartDisease&#45;&gt;SkinCancer -->
+<g id="edge11" class="edge">
+<title>HeartDisease-&gt;SkinCancer</title>
+<g id="a_edge11"><a xlink:title="0 → 17">
+<path fill="none" stroke="#4a4a4a" d="M545.55,-578.27C563.78,-568.85 586.5,-555.52 604,-540 624.6,-521.74 643.21,-496.46 655.73,-477.51"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="658.58,-479.56 661.05,-469.25 652.69,-475.76 658.58,-479.56"/>
+</a>
+</g>
+</g>
+<!-- KidneyDisease -->
+<g id="node19" class="node">
+<title>KidneyDisease</title>
+<g id="a_node19"><a xlink:title="(16) KidneyDisease">
+<ellipse fill="#404040" stroke="#4a4a4a" cx="833" cy="-306" rx="66.71" ry="18"/>
+<text text-anchor="middle" x="833" y="-300.95" font-family="Times,serif" font-size="14.00" fill="white">KidneyDisease</text>
+</a>
+</g>
+</g>
+<!-- HeartDisease&#45;&gt;KidneyDisease -->
+<g id="edge27" class="edge">
+<title>HeartDisease-&gt;KidneyDisease</title>
+<g id="a_edge27"><a xlink:title="0 → 16">
+<path fill="none" stroke="#4a4a4a" d="M572.97,-589.85C619.03,-584.86 682.76,-572.15 729,-540 798.37,-491.78 822.1,-386.1 829.69,-335.33"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="833.12,-336.12 831.02,-325.73 826.18,-335.16 833.12,-336.12"/>
+</a>
+</g>
+</g>
+<!-- HeartDisease&#45;&gt;DiffWalking -->
+<g id="edge20" class="edge">
+<title>HeartDisease-&gt;DiffWalking</title>
+<g id="a_edge20"><a xlink:title="0 → 7">
+<path fill="none" stroke="#4a4a4a" d="M572.44,-589.29C707.53,-579.13 1030,-545.02 1030,-451 1030,-451 1030,-451 1030,-377 1030,-336.55 1038.47,-317.69 1011,-288 982.85,-257.58 938.16,-244.33 900.48,-238.68"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="901.42,-235.27 891.05,-237.42 900.49,-242.21 901.42,-235.27"/>
+</a>
+</g>
+</g>
+<!-- HeartDisease&#45;&gt;PhysicalHealth -->
+<g id="edge4" class="edge">
+<title>HeartDisease-&gt;PhysicalHealth</title>
+<g id="a_edge4"><a xlink:title="0 → 5">
+<path fill="none" stroke="#4a4a4a" d="M453.82,-593.64C350.63,-593.45 146.09,-586.94 95,-540 65.22,-512.63 76,-491.45 76,-451 76,-451 76,-451 76,-377 76,-320.51 132.88,-278.5 174.38,-255.36"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="175.82,-258.56 182.96,-250.74 172.5,-252.4 175.82,-258.56"/>
+</a>
+</g>
+</g>
+<!-- Diabetic -->
+<g id="node22" class="node">
+<title>Diabetic</title>
+<g id="a_node22"><a xlink:title="(11) Diabetic">
+<ellipse fill="#404040" stroke="#4a4a4a" cx="960" cy="-306" rx="42.14" ry="18"/>
+<text text-anchor="middle" x="960" y="-300.95" font-family="Times,serif" font-size="14.00" fill="white">Diabetic</text>
+</a>
+</g>
+</g>
+<!-- HeartDisease&#45;&gt;Diabetic -->
+<g id="edge10" class="edge">
+<title>HeartDisease-&gt;Diabetic</title>
+<g id="a_edge10"><a xlink:title="0 → 11">
+<path fill="none" stroke="#4a4a4a" d="M573.53,-590.87C626.14,-586.62 703.27,-574.42 761,-540 848.69,-487.71 916.74,-382.87 945.32,-333.66"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="948.3,-335.5 950.21,-325.08 942.22,-332.04 948.3,-335.5"/>
+</a>
+</g>
+</g>
+<!-- SleepTime&#45;&gt;SleepCategory -->
+<g id="edge18" class="edge">
+<title>SleepTime-&gt;SleepCategory</title>
+<g id="a_edge18"><a xlink:title="14 → 21">
+<path fill="none" stroke="#4a4a4a" d="M262.38,-81.31C335.5,-68.91 479.72,-44.47 564.15,-30.16"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="564.64,-33.63 573.91,-28.51 563.47,-26.73 564.64,-33.63"/>
+</a>
+</g>
+</g>
+<!-- ComorbidityCount&#45;&gt;GenHealth -->
+<g id="edge17" class="edge">
+<title>ComorbidityCount-&gt;GenHealth</title>
+<g id="a_edge17"><a xlink:title="18 → 13">
+<path fill="none" stroke="#4a4a4a" d="M652.99,-362.75C614.62,-350.86 560.11,-333.98 521.15,-321.91"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="522.38,-318.63 511.79,-319.02 520.31,-325.32 522.38,-318.63"/>
+</a>
+</g>
+</g>
+<!-- ComorbidityCount&#45;&gt;Stroke -->
+<g id="edge13" class="edge">
+<title>ComorbidityCount-&gt;Stroke</title>
+<g id="a_edge13"><a xlink:title="18 → 4">
+<path fill="none" stroke="#4a4a4a" d="M679.09,-360.41C667.88,-351.07 653.73,-339.28 641.58,-329.15"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="643.85,-326.49 633.93,-322.77 639.37,-331.86 643.85,-326.49"/>
+</a>
+</g>
+</g>
+<!-- ComorbidityCount&#45;&gt;Asthma -->
+<g id="edge31" class="edge">
+<title>ComorbidityCount-&gt;Asthma</title>
+<g id="a_edge31"><a xlink:title="18 → 15">
+<path fill="none" stroke="#4a4a4a" d="M701.22,-359.7C702.17,-352.32 703.3,-343.52 704.37,-335.25"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="707.8,-335.97 705.61,-325.61 700.86,-335.08 707.8,-335.97"/>
+</a>
+</g>
+</g>
+<!-- ComorbidityCount&#45;&gt;KidneyDisease -->
+<g id="edge16" class="edge">
+<title>ComorbidityCount-&gt;KidneyDisease</title>
+<g id="a_edge16"><a xlink:title="18 → 16">
+<path fill="none" stroke="#4a4a4a" d="M729.74,-360.94C748.56,-351.11 772.84,-338.43 793.13,-327.83"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="794.74,-330.94 801.98,-323.2 791.5,-324.73 794.74,-330.94"/>
+</a>
+</g>
+</g>
+<!-- ComorbidityCount&#45;&gt;Diabetic -->
+<g id="edge40" class="edge">
+<title>ComorbidityCount-&gt;Diabetic</title>
+<g id="a_edge40"><a xlink:title="18 → 11">
+<path fill="none" stroke="#4a4a4a" d="M753.69,-364.38C796.25,-354.27 856.67,-339.3 909,-324 911.7,-323.21 914.48,-322.37 917.27,-321.5"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="918.11,-324.91 926.57,-318.53 915.98,-318.24 918.11,-324.91"/>
+</a>
+</g>
+</g>
+<!-- SkinCancer&#45;&gt;ComorbidityCount -->
+<g id="edge9" class="edge">
+<title>SkinCancer-&gt;ComorbidityCount</title>
+<g id="a_edge9"><a xlink:title="17 → 18">
+<path fill="none" stroke="#4a4a4a" d="M678.67,-431.7C681.58,-424.15 685.07,-415.12 688.32,-406.68"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="691.52,-408.11 691.86,-397.52 684.99,-405.59 691.52,-408.11"/>
+</a>
+</g>
+</g>
+<!-- PhysicalHealth&#45;&gt;UnhealthyDays -->
+<g id="edge5" class="edge">
+<title>PhysicalHealth-&gt;UnhealthyDays</title>
+<g id="a_edge5"><a xlink:title="5 → 19">
+<path fill="none" stroke="#4a4a4a" d="M217,-215.7C217,-208.41 217,-199.73 217,-191.54"/>
+<polygon fill="#4a4a4a" stroke="#4a4a4a" points="220.5,-191.62 217,-181.62 213.5,-191.62 220.5,-191.62"/>
+</a>
+</g>
+</g>
+</g>
+</svg>

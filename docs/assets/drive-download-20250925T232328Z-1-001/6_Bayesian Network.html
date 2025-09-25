@@ -6,9 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="description" content="Portfolio of projects, videos, and documents">
 
-<title>Welcome – Owen Tatlonghari Portfolio</title>
+<title>bayesian-network – Owen Tatlonghari Portfolio</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -21,27 +20,62 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ea1d7ac60288e0f1efdbc993fd8432ae.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-f93c2b1f3f0577f377aefa4848a86a36.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js" integrity="sha384-ZvpUoO/+PpLXR1lu4jmpXWu80pZlYUAfxl5NsBMWOEPSjUn/6Z/hRTt8+pR6L4N2" crossorigin="anonymous"></script><script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-ea1d7ac60288e0f1efdbc993fd8432ae.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-f93c2b1f3f0577f377aefa4848a86a36.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,9 +103,12 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script src="https://cdn.jsdelivr.net/npm/requirejs@2.3.6/require.min.js" integrity="sha384-c9c+LnTbwQ3aujuU7ULEPVvgLs+Fn6fJUvIGTsuu1ZcCf11fiEubah0ttpca4ntM sha384-6V1/AdqZRWk1KAlWbKBlGhN7VG4iE/yAZcO6NZPMF8od0vukrvr0tg4qY6NSrItx" crossorigin="anonymous"></script>
+
+<script type="application/javascript">define('jquery', [],function() {return window.jQuery;})</script>
 
 
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light">
@@ -81,9 +118,9 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    <a href="../../index.html" class="navbar-brand navbar-brand-logo">
     </a>
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Owen Tatlonghari Portfolio</span>
     </a>
   </div>
@@ -94,11 +131,11 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="../../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
 </ul>
@@ -114,167 +151,252 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Welcome</h1>
-</div>
 
+
+
+<div id="75841936" class="cell" data-execution_count="2">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pyAgrum.skbn <span class="im">as</span> skbn</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pyAgrum.lib.notebook <span class="im">as</span> gnb</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> sklearn.metrics <span class="im">import</span> mean_squared_error, r2_score, precision_score, recall_score, RocCurveDisplay, roc_auc_score, confusion_matrix, ConfusionMatrixDisplay, accuracy_score</span>
+<span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> sklearn.model_selection <span class="im">import</span> train_test_split, cross_val_score, cross_validate, RandomizedSearchCV</span>
+<span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pickle</span>
+<span id="cb1-7"><a href="#cb1-7" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> numpy <span class="im">as</span> np</span>
+<span id="cb1-8"><a href="#cb1-8" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pandas <span class="im">as</span> pd</span>
+<span id="cb1-9"><a href="#cb1-9" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> sample_data <span class="im">as</span> sd</span>
+<span id="cb1-10"><a href="#cb1-10" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> matplotlib.pyplot <span class="im">as</span> plt</span>
+<span id="cb1-11"><a href="#cb1-11" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> seaborn <span class="im">as</span> sns</span>
+<span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> datetime <span class="im">import</span> datetime</span>
+<span id="cb1-13"><a href="#cb1-13" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> tqdm.notebook <span class="im">import</span> tqdm</span>
+<span id="cb1-14"><a href="#cb1-14" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> sklearn.inspection <span class="im">import</span> permutation_importance</span>
+<span id="cb1-15"><a href="#cb1-15" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-16"><a href="#cb1-16" aria-hidden="true" tabindex="-1"></a><span class="im">from</span> IPython.display <span class="im">import</span> display,HTML</span>
+<span id="cb1-17"><a href="#cb1-17" aria-hidden="true" tabindex="-1"></a>df <span class="op">=</span> pd.read_csv(<span class="st">"/Users/NathanSwan 1/Downloads/heart_cleaned_final2.csv"</span>, nrows<span class="op">=</span><span class="dv">50000</span>)</span>
+<span id="cb1-18"><a href="#cb1-18" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb1-19"><a href="#cb1-19" aria-hidden="true" tabindex="-1"></a>df.head()</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-display" data-execution_count="2">
 <div>
-  <div class="description">
-    Portfolio of projects, videos, and documents
-  </div>
+
+
+<table class="dataframe caption-top table table-sm table-striped small" data-border="1">
+<thead>
+<tr class="header">
+<th data-quarto-table-cell-role="th"></th>
+<th data-quarto-table-cell-role="th">HeartDisease</th>
+<th data-quarto-table-cell-role="th">BMI</th>
+<th data-quarto-table-cell-role="th">Smoking</th>
+<th data-quarto-table-cell-role="th">AlcoholDrinking</th>
+<th data-quarto-table-cell-role="th">Stroke</th>
+<th data-quarto-table-cell-role="th">PhysicalHealth</th>
+<th data-quarto-table-cell-role="th">MentalHealth</th>
+<th data-quarto-table-cell-role="th">DiffWalking</th>
+<th data-quarto-table-cell-role="th">Sex</th>
+<th data-quarto-table-cell-role="th">Diabetic</th>
+<th data-quarto-table-cell-role="th">...</th>
+<th data-quarto-table-cell-role="th">Race_White</th>
+<th data-quarto-table-cell-role="th">GenHealth_Excellent</th>
+<th data-quarto-table-cell-role="th">GenHealth_Fair</th>
+<th data-quarto-table-cell-role="th">GenHealth_Good</th>
+<th data-quarto-table-cell-role="th">GenHealth_Poor</th>
+<th data-quarto-table-cell-role="th">GenHealth_Very good</th>
+<th data-quarto-table-cell-role="th">SleepCategory_Very Short</th>
+<th data-quarto-table-cell-role="th">SleepCategory_Short</th>
+<th data-quarto-table-cell-role="th">SleepCategory_Normal</th>
+<th data-quarto-table-cell-role="th">SleepCategory_Long</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<th data-quarto-table-cell-role="th">0</th>
+<td>0</td>
+<td>16.60</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>3.0</td>
+<td>30.0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>...</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<th data-quarto-table-cell-role="th">1</th>
+<td>0</td>
+<td>20.34</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>...</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr class="odd">
+<th data-quarto-table-cell-role="th">2</th>
+<td>0</td>
+<td>26.58</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>20.0</td>
+<td>30.0</td>
+<td>0</td>
+<td>1</td>
+<td>1</td>
+<td>...</td>
+<td>1</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<th data-quarto-table-cell-role="th">3</th>
+<td>0</td>
+<td>24.21</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0.0</td>
+<td>0.0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>...</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr class="odd">
+<th data-quarto-table-cell-role="th">4</th>
+<td>0</td>
+<td>23.71</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>28.0</td>
+<td>0.0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>...</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+<td>0</td>
+<td>1</td>
+<td>0</td>
+</tr>
+</tbody>
+</table>
+
+<p>5 rows × 46 columns</p>
+</div>
+</div>
+</div>
+<div id="7f646615" class="cell" data-execution_count="3">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb2"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="im">import</span> pickle</span>
+<span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-3"><a href="#cb2-3" aria-hidden="true" tabindex="-1"></a><span class="co"># adjust paths/filenames as needed</span></span>
+<span id="cb2-4"><a href="#cb2-4" aria-hidden="true" tabindex="-1"></a><span class="cf">with</span> <span class="bu">open</span>(<span class="st">'/Users/NathanSwan 1/Downloads/331 Project/X_train.p'</span>, <span class="st">'rb'</span>) <span class="im">as</span> f:</span>
+<span id="cb2-5"><a href="#cb2-5" aria-hidden="true" tabindex="-1"></a>    X_train <span class="op">=</span> pickle.load(f)</span>
+<span id="cb2-6"><a href="#cb2-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-7"><a href="#cb2-7" aria-hidden="true" tabindex="-1"></a><span class="cf">with</span> <span class="bu">open</span>(<span class="st">'/Users/NathanSwan 1/Downloads/331 Project/X_test.p'</span>, <span class="st">'rb'</span>) <span class="im">as</span> f:</span>
+<span id="cb2-8"><a href="#cb2-8" aria-hidden="true" tabindex="-1"></a>    X_test <span class="op">=</span> pickle.load(f)</span>
+<span id="cb2-9"><a href="#cb2-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-10"><a href="#cb2-10" aria-hidden="true" tabindex="-1"></a><span class="cf">with</span> <span class="bu">open</span>(<span class="st">'/Users/NathanSwan 1/Downloads/331 Project/y_train.p'</span>, <span class="st">'rb'</span>) <span class="im">as</span> f:</span>
+<span id="cb2-11"><a href="#cb2-11" aria-hidden="true" tabindex="-1"></a>    y_train <span class="op">=</span> pickle.load(f)</span>
+<span id="cb2-12"><a href="#cb2-12" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-13"><a href="#cb2-13" aria-hidden="true" tabindex="-1"></a><span class="cf">with</span> <span class="bu">open</span>(<span class="st">'/Users/NathanSwan 1/Downloads/331 Project/y_test.p'</span>, <span class="st">'rb'</span>) <span class="im">as</span> f:</span>
+<span id="cb2-14"><a href="#cb2-14" aria-hidden="true" tabindex="-1"></a>    y_test <span class="op">=</span> pickle.load(f)</span>
+<span id="cb2-15"><a href="#cb2-15" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb2-16"><a href="#cb2-16" aria-hidden="true" tabindex="-1"></a><span class="co"># quick check</span></span>
+<span id="cb2-17"><a href="#cb2-17" aria-hidden="true" tabindex="-1"></a><span class="bu">print</span>(X_train.shape, X_test.shape, <span class="bu">len</span>(y_train), <span class="bu">len</span>(y_test))</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>(35000, 21) (15000, 21) 35000 15000</code></pre>
+</div>
+</div>
+<p>Tree Augemented Network Bayesian Network</p>
+<div id="318e1d00" class="cell" data-execution_count="4">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb4"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a>bnc <span class="op">=</span> skbn.BNClassifier(learningMethod <span class="op">=</span> <span class="st">'TAN'</span>) <span class="co">## Tree-Augmented Network.</span></span>
+<span id="cb4-4"><a href="#cb4-4" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-5"><a href="#cb4-5" aria-hidden="true" tabindex="-1"></a>bnc.fit(X_train, y_train)</span>
+<span id="cb4-6"><a href="#cb4-6" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-7"><a href="#cb4-7" aria-hidden="true" tabindex="-1"></a>y_train_hat <span class="op">=</span> bnc.predict(X_train)</span>
+<span id="cb4-8"><a href="#cb4-8" aria-hidden="true" tabindex="-1"></a>y_test_hat <span class="op">=</span> bnc.predict(X_test)</span>
+<span id="cb4-9"><a href="#cb4-9" aria-hidden="true" tabindex="-1"></a></span>
+<span id="cb4-10"><a href="#cb4-10" aria-hidden="true" tabindex="-1"></a>bnc.score(X_train, y_train), bnc.score(X_test, y_test)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>/opt/anaconda3/envs/MISY331__base/lib/python3.13/site-packages/sklearn/preprocessing/_discretization.py:322: UserWarning: Bins whose width are too small (i.e., &lt;= 1e-8) in feature 0 are removed. Consider decreasing the number of bins.
+  warnings.warn(
+/opt/anaconda3/envs/MISY331__base/lib/python3.13/site-packages/sklearn/preprocessing/_discretization.py:322: UserWarning: Bins whose width are too small (i.e., &lt;= 1e-8) in feature 0 are removed. Consider decreasing the number of bins.
+  warnings.warn(
+/opt/anaconda3/envs/MISY331__base/lib/python3.13/site-packages/sklearn/preprocessing/_discretization.py:322: UserWarning: Bins whose width are too small (i.e., &lt;= 1e-8) in feature 0 are removed. Consider decreasing the number of bins.
+  warnings.warn(</code></pre>
+</div>
+<div class="cell-output cell-output-display" data-execution_count="4">
+<pre><code>(0.7485142857142857, 0.7406)</code></pre>
+</div>
+</div>
+<div id="0b1748d4" class="cell" data-execution_count="5">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb7"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb7-1"><a href="#cb7-1" aria-hidden="true" tabindex="-1"></a>gnb.showBN(bnc.bn)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<div class="cell-output cell-output-display">
+<div>
+<figure class="figure">
+<p><img src="6_Bayesian Network_files/figure-html/cell-5-output-1.svg" class="img-fluid figure-img"></p>
+</figure>
+</div>
+</div>
+</div>
+<div id="44576ae3" class="cell" data-execution_count="8">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb8"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb8-1"><a href="#cb8-1" aria-hidden="true" tabindex="-1"></a><span class="cf">with</span> <span class="bu">open</span>(<span class="st">'bayesian_network_model.pkl'</span>, <span class="st">'wb'</span>) <span class="im">as</span> <span class="bu">file</span>:</span>
+<span id="cb8-2"><a href="#cb8-2" aria-hidden="true" tabindex="-1"></a>    pickle.dump(bnc.bn, <span class="bu">file</span>)</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </div>
 
 
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<div class="hero">
-<section id="owen-tatlonghari" class="level1 hero-content">
-<h1>Owen Tatlonghari</h1>
-<p>Data-driven student showcasing projects in analytics, finance, modeling, and communication. Showcasing not just my projects throughout the years, but also my growth and development as a student.</p>
-<div class="hero-actions">
-<p><span class="btn btn-primary" href="#projects">View Projects</span> <a class="btn btn-outline" href="https://github.com/OwenTat7" target="_blank">GitHub</a> <a class="btn btn-outline" href="https://linkedin.com/in/owen-tatlonghari" target="_blank">LinkedIn</a></p>
-</div>
-</section>
-</div>
-<section id="creative-projects-freshman-year" class="level2">
-<h2 class="anchored" data-anchor-id="creative-projects-freshman-year">Creative Projects — Freshman Year</h2>
-<div id="projects" class="project-card">
-<div class="project-media">
-<div class="video-embed">
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/2V-NbOLcYc0" title="Freshman Year Professional Presentation Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="">
-</iframe>
-</div>
-</div>
-<section id="essays" class="level4 project-details">
-<h4 class="anchored" data-anchor-id="essays">Essays</h4>
-<ul>
-<li><a href="assets/docs/Generational Influence of Technology Research Essay.docx" target="_blank">Generational Influence of Technology Research Essay.docx</a></li>
-</ul>
-<div class="doc-embed">
-<p><strong>Document Preview:</strong> Click the link above to download and view the essay.</p>
-<p><em>Note: For best viewing experience, download the document to open in Microsoft Word or Google Docs.</em></p>
-</div>
-<ul>
-<li><a href="assets/docs/English Research Project.docx" target="_blank">English Research Project.docx</a></li>
-</ul>
-<div class="doc-embed">
-<p><strong>Document Preview:</strong> Click the link above to download and view the essay.</p>
-<p><em>Note: For best viewing experience, download the document to open in Microsoft Word or Google Docs.</em></p>
-</div>
-</section>
-</div>
-</section>
-<section id="case-1-liz-motors-junior-year" class="level2">
-<h2 class="anchored" data-anchor-id="case-1-liz-motors-junior-year">Case 1 — Liz Motors — Junior Year</h2>
-<p><em>Group project completed in FINC312 Intermediate Financial Management at the University of Delaware</em></p>
-<div class="project-card">
-<div class="project-details">
-<ul>
-<li>PDF: <a href="assets/Case 1 - Liz Motors.pdf" target="_blank">Case 1 - Liz Motors.pdf</a></li>
-<li>PDF: <a href="assets/Case 1 Liz Motors.pdf" target="_blank">Case 1 Liz Motors.pdf</a></li>
-</ul>
-<div class="pdf-embed" style="display: flex; gap: 1rem;">
-<iframe src="assets/Case 1 - Liz Motors.pdf" width="50%" height="600" frameborder="0">
-</iframe>
-<iframe src="assets/Case 1 Liz Motors.pdf" width="50%" height="600" frameborder="0">
-</iframe>
-</div>
-</div>
-</div>
-</section>
-<section id="case-ii-mm-pizza-junior-year" class="level2">
-<h2 class="anchored" data-anchor-id="case-ii-mm-pizza-junior-year">Case II — M&amp;M Pizza — Junior Year</h2>
-<p><em>Group project completed in FINC312 Intermediate Financial Management at the University of Delaware</em></p>
-<div class="project-card">
-<div class="project-details">
-<ul>
-<li>PDF: <a href="assets/Case II M%26M Pizza.pdf" target="_blank">Case II M&amp;M Pizza.pdf</a></li>
-<li>PDF: <a href="assets/M%26M Pizza copy.pdf" target="_blank">M&amp;M Pizza copy.pdf</a></li>
-</ul>
-<div class="pdf-embed" style="display: flex; gap: 1rem;">
-<iframe src="assets/Case II M%26M Pizza.pdf" width="50%" height="600" frameborder="0">
-</iframe>
-<iframe src="assets/M%26M Pizza copy.pdf" width="50%" height="600" frameborder="0">
-</iframe>
-</div>
-</div>
-</div>
-</section>
-<section id="scoring-model-ahp-model-project-junior-year" class="level2">
-<h2 class="anchored" data-anchor-id="scoring-model-ahp-model-project-junior-year">Scoring Model / AHP Model Project — Junior Year</h2>
-<div class="project-card">
-<div class="project-media">
-<video width="100%" height="auto" controls="">
-<source src="Tatlonghari Owen PPT 720p.mp4" type="video/mp4">
-<p>Your browser does not support the video tag. </p>
-<p>:::</p>
-<div class="project-details">
-<ul>
-<li><a href="Tatlonghari Owen PPT 720p.mp4" target="_blank">Download video (720p MP4)</a></li>
-</ul>
-</div>
-<p>:::</p>
-<section id="misy-331-machine-learning-for-business-final-project" class="level2">
-<h2 class="anchored" data-anchor-id="misy-331-machine-learning-for-business-final-project">MISY 331: Machine Learning for Business Final Project</h2>
-<p><em>Group project completed in MISY331 Machine Learning for Business at the University of Delaware</em></p>
-<div class="project-card">
-<div class="project-details">
-<ul>
-<li>PDF: <a href="assets/MISY331 Final .pdf" target="_blank">MISY331 Final.pdf</a></li>
-</ul>
-<div class="pdf-embed">
-<iframe src="assets/MISY331 Final .pdf" width="100%" height="600" frameborder="0">
-</iframe>
-</div>
-<p><strong>Project Notebooks (HTML Format):</strong></p>
-<div class="notebook-grid">
-<p><strong>Data Preprocessing:</strong> - <a href="assets/drive-download-20250925T232328Z-1-001/1_EDA_Cleaning.html" target="_blank">1. EDA &amp; Cleaning</a> - <a href="assets/drive-download-20250925T232328Z-1-001/2_Pre-Analysis Visualization.html" target="_blank">2. Pre-Analysis Visualization</a></p>
-<p><strong>Machine Learning Models:</strong> - <a href="assets/drive-download-20250925T232328Z-1-001/3_Ridge Regression.html" target="_blank">3. Ridge Regression</a> - <a href="assets/drive-download-20250925T232328Z-1-001/4_Random Forests.html" target="_blank">4. Random Forests</a> - <a href="assets/drive-download-20250925T232328Z-1-001/5_BoostedTree.html" target="_blank">5. Boosted Tree</a> - <a href="assets/drive-download-20250925T232328Z-1-001/6_Bayesian Network.html" target="_blank">6. Bayesian Network</a> - <a href="assets/drive-download-20250925T232328Z-1-001/7_Clustering.html" target="_blank">7. Clustering</a> - <a href="assets/drive-download-20250925T232328Z-1-001/8_Neural_Network.html" target="_blank">8. Neural Network</a></p>
-<p><strong>Results &amp; Visualization:</strong> - <a href="assets/drive-download-20250925T232328Z-1-001/9_ResultVisualization.html" target="_blank">9. Result Visualization</a> - <a href="assets/drive-download-20250925T232328Z-1-001/xgb_model2.pkl" target="_blank">Model File: xgb_model2.pkl</a></p>
-</div>
-<p><em>This project demonstrates comprehensive machine learning techniques including data preprocessing, multiple modeling approaches, and result presentation and visualization.</em></p>
-</div>
-</div>
-</section>
-<section id="resume" class="level2">
-<h2 class="anchored" data-anchor-id="resume">Resume</h2>
-<div class="project-card">
-<div class="project-details">
-<ul>
-<li>PDF: <a href="assets/Owen Tatlonghari Resume.pdf" target="_blank">Owen Tatlonghari Resume.pdf</a></li>
-</ul>
-<div class="pdf-embed">
-<iframe src="assets/Owen Tatlonghari Resume.pdf" width="100%" height="600" frameborder="0">
-</iframe>
-</div>
-</div>
-</div>
-</section>
-<section id="contact" class="level2">
-<h2 class="anchored" data-anchor-id="contact">Contact</h2>
-<ul>
-<li>GitHub: <a href="https://github.com/OwenTat7" class="uri">https://github.com/OwenTat7</a></li>
-<li>LinkedIn: <a href="https://linkedin.com/in/owen-tatlonghari" class="uri">https://linkedin.com/in/owen-tatlonghari</a></li>
-</ul>
-
-
-</section>
-</video></div>
-</div>
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

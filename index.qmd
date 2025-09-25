@@ -96,6 +96,42 @@ Showcasing not just my projects throughout the years, but also my growth and dev
 :::
 :::
 
+## MISY 331: Machine Learning for Business Final Project
+
+*Group project completed in MISY331 Machine Learning for Business at the University of Delaware*
+
+::: {.project-card}
+::: {.project-details}
+- PDF: [MISY331 Final.pdf](assets/MISY331%20Final%20.pdf){target="_blank"}
+
+::: {.pdf-embed}
+<iframe src="assets/MISY331%20Final%20.pdf" width="100%" height="600" frameborder="0"></iframe>
+:::
+
+**Project Notebooks (HTML Format):**
+
+::: {.notebook-grid}
+**Data Preprocessing:**
+- [1. EDA & Cleaning](assets/drive-download-20250925T232328Z-1-001/1_EDA_Cleaning.html){target="_blank"}
+- [2. Pre-Analysis Visualization](assets/drive-download-20250925T232328Z-1-001/2_Pre-Analysis%20Visualization.html){target="_blank"}
+
+**Machine Learning Models:**
+- [3. Ridge Regression](assets/drive-download-20250925T232328Z-1-001/3_Ridge%20Regression.html){target="_blank"}
+- [4. Random Forests](assets/drive-download-20250925T232328Z-1-001/4_Random%20Forests.html){target="_blank"}
+- [5. Boosted Tree](assets/drive-download-20250925T232328Z-1-001/5_BoostedTree.html){target="_blank"}
+- [6. Bayesian Network](assets/drive-download-20250925T232328Z-1-001/6_Bayesian%20Network.html){target="_blank"}
+- [7. Clustering](assets/drive-download-20250925T232328Z-1-001/7_Clustering.html){target="_blank"}
+- [8. Neural Network](assets/drive-download-20250925T232328Z-1-001/8_Neural_Network.html){target="_blank"}
+
+**Results & Visualization:**
+- [9. Result Visualization](assets/drive-download-20250925T232328Z-1-001/9_ResultVisualization.html){target="_blank"}
+- [Model File: xgb_model2.pkl](assets/drive-download-20250925T232328Z-1-001/xgb_model2.pkl){target="_blank"}
+:::
+
+*This project demonstrates comprehensive machine learning techniques including data preprocessing, multiple modeling approaches, and result presentation and visualization.*
+:::
+:::
+
 ## Resume
 
 ::: {.project-card}

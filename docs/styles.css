@@ -99,3 +99,44 @@
   color: #374151;
   background: #fff;
 }
+
+/* Notebook Grid Styling */
+.notebook-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0;
+}
+
+.notebook-grid > div {
+  background-color: #f8fafc;
+  border: 1px solid #e5e7eb;
+  border-radius: 0.5rem;
+  padding: 1rem;
+}
+
+.notebook-grid h4 {
+  color: #2563eb;
+  margin-bottom: 0.75rem;
+  font-size: 1.1rem;
+}
+
+.notebook-grid ul {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+.notebook-grid li {
+  margin-bottom: 0.5rem;
+}
+
+.notebook-grid a {
+  color: #2563eb;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.notebook-grid a:hover {
+  text-decoration: underline;
+}
