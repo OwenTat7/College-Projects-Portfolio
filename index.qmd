@@ -18,7 +18,7 @@ Data-driven student showcasing projects in analytics, modeling, and communicatio
 :::
 :::
 
-## Creative Video Project — Freshman Year
+## Creative Projects — Freshman Year
 
 ::: {.project-card #projects}
 ::: {.project-media}
@@ -50,6 +50,8 @@ Data-driven student showcasing projects in analytics, modeling, and communicatio
 
 ## Case 1 — Liz Motors — Junior Year
 
+*Group project completed in FINC312 Intermediate Financial Management at the University of Delaware*
+
 ::: {.project-card}
 ::: {.project-details}
 - Excel: [Case 1 - Liz Motors.xlsx](assets/Case%201%20-%20Liz%20Motors%20copy.xlsx){target="_blank"}
@@ -60,17 +62,17 @@ Data-driven student showcasing projects in analytics, modeling, and communicatio
 *Note: For best viewing experience, download the file to open in Microsoft Excel or Google Sheets.*
 :::
 
-- Word: [Case 1 Liz Motors.docx](assets/Case%201%20Liz%20Motors%20copy.docx){target="_blank"}
+- PDF: [Case 1 Liz Motors.pdf](assets/Case%201%20Liz%20Motors.pdf){target="_blank"}
 
-::: {.doc-embed}
-**Word Document:** Click the link above to download and view the document.
-
-*Note: For best viewing experience, download the file to open in Microsoft Word or Google Docs.*
+::: {.pdf-embed}
+<iframe src="assets/Case%201%20Liz%20Motors.pdf" width="100%" height="600" frameborder="0"></iframe>
 :::
 :::
 :::
 
 ## Case II — M&M Pizza — Junior Year
+
+*Group project completed in FINC312 Intermediate Financial Management at the University of Delaware*
 
 ::: {.project-card}
 ::: {.project-details}
