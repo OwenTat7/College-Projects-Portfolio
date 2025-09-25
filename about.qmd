@@ -4,7 +4,8 @@ title: About
 
 Hi, I'm Owen. This site collects my projects, coursework, and media.
 
-- Email: you@example.com
-- Resume: [resume.pdf](assets/resume.pdf)
+- Email: octat@udel.edu
+- Phone: 267-481-3233
+- Resume: [Owen Tatlonghari Resume.pdf](assets/Owen%20Tatlonghari%20Resume.pdf)
 
 This website is built with Quarto and deployed via GitHub Pages.

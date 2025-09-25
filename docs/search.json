@@ -4,7 +4,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Hi, I’m Owen. This site collects my projects, coursework, and media.\n\nEmail: you@example.com\nResume: resume.pdf\n\nThis website is built with Quarto and deployed via GitHub Pages."
+    "text": "Hi, I’m Owen. This site collects my projects, coursework, and media.\n\nEmail: octat@udel.edu\nPhone: 267-481-3233\nResume: Owen Tatlonghari Resume.pdf\n\nThis website is built with Quarto and deployed via GitHub Pages."
   },
   {
     "objectID": "index.html",
@@ -25,27 +25,34 @@
     "href": "index.html#case-1-liz-motors-junior-year",
     "title": "Welcome",
     "section": "Case 1 — Liz Motors — Junior Year",
-    "text": "Case 1 — Liz Motors — Junior Year\nGroup project completed in FINC312 Intermediate Financial Management at the University of Delaware\n\n\n\nExcel: Case 1 - Liz Motors.xlsx\n\n\nExcel File: Click the link above to download and view the spreadsheet.\nNote: For best viewing experience, download the file to open in Microsoft Excel or Google Sheets.\n\n\nPDF: Case 1 Liz Motors.pdf"
+    "text": "Case 1 — Liz Motors — Junior Year\nGroup project completed in FINC312 Intermediate Financial Management at the University of Delaware\n\n\n\nPDF: Case 1 - Liz Motors.pdf"
   },
   {
     "objectID": "index.html#case-ii-mm-pizza-junior-year",
     "href": "index.html#case-ii-mm-pizza-junior-year",
     "title": "Welcome",
     "section": "Case II — M&M Pizza — Junior Year",
-    "text": "Case II — M&M Pizza — Junior Year\nGroup project completed in FINC312 Intermediate Financial Management at the University of Delaware\n\n\n\nExcel: Case II M&M Pizza.xlsx\n\n\nExcel File: Click the link above to download and view the spreadsheet.\nNote: For best viewing experience, download the file to open in Microsoft Excel or Google Sheets.\n\n\nPDF: M&M Pizza copy.pdf"
+    "text": "Case II — M&M Pizza — Junior Year\nGroup project completed in FINC312 Intermediate Financial Management at the University of Delaware\n\n\n\nPDF: Case II M&M Pizza.pdf"
   },
   {
     "objectID": "index.html#scoring-model-ahp-model-project-junior-year",
     "href": "index.html#scoring-model-ahp-model-project-junior-year",
     "title": "Welcome",
     "section": "Scoring Model / AHP Model Project — Junior Year",
-    "text": "Scoring Model / AHP Model Project — Junior Year\n\n\n\n\nYour browser does not support the video tag. \n:::\n\n\nDownload video (720p MP4)\n\n\n:::\n\nContact\n\nGitHub: https://github.com/your-username\nLinkedIn: https://linkedin.com/in/your-handle"
+    "text": "Scoring Model / AHP Model Project — Junior Year\n\n\n\n\nYour browser does not support the video tag. \n:::\n\n\nDownload video (720p MP4)\n\n\n:::\n\nResume\n\n\n\nPDF: Owen Tatlonghari Resume.pdf\n\n\n\n\n\n\n\n\n\nContact\n\nGitHub: https://github.com/OwenTat7\nLinkedIn: https://linkedin.com/in/owen-tatlonghari"
+  },
+  {
+    "objectID": "index.html#resume",
+    "href": "index.html#resume",
+    "title": "Welcome",
+    "section": "Resume",
+    "text": "Resume\n\n\n\nPDF: Owen Tatlonghari Resume.pdf"
   },
   {
     "objectID": "index.html#contact",
     "href": "index.html#contact",
     "title": "Welcome",
     "section": "Contact",
-    "text": "Contact\n\nGitHub: https://github.com/your-username\nLinkedIn: https://linkedin.com/in/your-handle"
+    "text": "Contact\n\nGitHub: https://github.com/OwenTat7\nLinkedIn: https://linkedin.com/in/owen-tatlonghari"
   }
 ]

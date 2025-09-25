@@ -12,8 +12,8 @@ Data-driven student showcasing projects in analytics, modeling, and communicatio
 
 ::: {.hero-actions}
 [View Projects]{.btn .btn-primary href="#projects"}
-[GitHub]{.btn .btn-outline href="https://github.com/your-username" target="_blank"}
-[LinkedIn]{.btn .btn-outline href="https://linkedin.com/in/your-handle" target="_blank"}
+[GitHub]{.btn .btn-outline href="https://github.com/OwenTat7" target="_blank"}
+[LinkedIn]{.btn .btn-outline href="https://linkedin.com/in/owen-tatlonghari" target="_blank"}
 :::
 :::
 :::
@@ -54,18 +54,10 @@ Data-driven student showcasing projects in analytics, modeling, and communicatio
 
 ::: {.project-card}
 ::: {.project-details}
-- Excel: [Case 1 - Liz Motors.xlsx](assets/Case%201%20-%20Liz%20Motors%20copy.xlsx){target="_blank"}
-
-::: {.doc-embed}
-**Excel File:** Click the link above to download and view the spreadsheet.
-
-*Note: For best viewing experience, download the file to open in Microsoft Excel or Google Sheets.*
-:::
-
-- PDF: [Case 1 Liz Motors.pdf](assets/Case%201%20Liz%20Motors.pdf){target="_blank"}
+- PDF: [Case 1 - Liz Motors.pdf](assets/Case%201%20-%20Liz%20Motors.pdf){target="_blank"}
 
 ::: {.pdf-embed}
-<iframe src="assets/Case%201%20Liz%20Motors.pdf" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="assets/Case%201%20-%20Liz%20Motors.pdf" width="100%" height="600" frameborder="0"></iframe>
 :::
 :::
 :::
@@ -76,18 +68,10 @@ Data-driven student showcasing projects in analytics, modeling, and communicatio
 
 ::: {.project-card}
 ::: {.project-details}
-- Excel: [Case II M&M Pizza.xlsx](assets/Case%20II%20M%26M%20Pizza.xlsx){target="_blank"}
-
-::: {.doc-embed}
-**Excel File:** Click the link above to download and view the spreadsheet.
-
-*Note: For best viewing experience, download the file to open in Microsoft Excel or Google Sheets.*
-:::
-
-- PDF: [M&M Pizza copy.pdf](assets/M%26M%20Pizza%20copy.pdf){target="_blank"}
+- PDF: [Case II M&M Pizza.pdf](assets/Case%20II%20M%26M%20Pizza.pdf){target="_blank"}
 
 ::: {.pdf-embed}
-<iframe src="assets/M%26M%20Pizza%20copy.pdf" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="assets/Case%20II%20M%26M%20Pizza.pdf" width="100%" height="600" frameborder="0"></iframe>
 :::
 :::
 :::
@@ -107,7 +91,19 @@ Data-driven student showcasing projects in analytics, modeling, and communicatio
 :::
 :::
 
+## Resume
+
+::: {.project-card}
+::: {.project-details}
+- PDF: [Owen Tatlonghari Resume.pdf](assets/Owen%20Tatlonghari%20Resume.pdf){target="_blank"}
+
+::: {.pdf-embed}
+<iframe src="assets/Owen%20Tatlonghari%20Resume.pdf" width="100%" height="600" frameborder="0"></iframe>
+:::
+:::
+:::
+
 ## Contact
 
-- GitHub: <https://github.com/your-username>
-- LinkedIn: <https://linkedin.com/in/your-handle>
+- GitHub: <https://github.com/OwenTat7>
+- LinkedIn: <https://linkedin.com/in/owen-tatlonghari>
