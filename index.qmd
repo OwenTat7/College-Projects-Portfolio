@@ -13,8 +13,8 @@ Showcasing not just my projects throughout the years, but also my growth and dev
 
 ::: {.hero-actions}
 [View Projects]{.btn .btn-primary href="#projects"}
-[GitHub]{.btn .btn-outline href="https://github.com/OwenTat7" target="_blank"}
-[LinkedIn]{.btn .btn-outline href="https://linkedin.com/in/owen-tatlonghari" target="_blank"}
+<a class="btn btn-outline" href="https://github.com/OwenTat7" target="_blank">GitHub</a>
+<a class="btn btn-outline" href="https://linkedin.com/in/owen-tatlonghari" target="_blank">LinkedIn</a>
 :::
 :::
 :::
@@ -56,15 +56,11 @@ Showcasing not just my projects throughout the years, but also my growth and dev
 ::: {.project-card}
 ::: {.project-details}
 - PDF: [Case 1 - Liz Motors.pdf](assets/Case%201%20-%20Liz%20Motors.pdf){target="_blank"}
-
-::: {.pdf-embed}
-<iframe src="assets/Case%201%20-%20Liz%20Motors.pdf" width="100%" height="600" frameborder="0"></iframe>
-:::
-
 - PDF: [Case 1 Liz Motors.pdf](assets/Case%201%20Liz%20Motors.pdf){target="_blank"}
 
-::: {.pdf-embed}
-<iframe src="assets/Case%201%20Liz%20Motors.pdf" width="100%" height="600" frameborder="0"></iframe>
+::: {.pdf-embed style="display: flex; gap: 1rem;"}
+<iframe src="assets/Case%201%20-%20Liz%20Motors.pdf" width="50%" height="600" frameborder="0"></iframe>
+<iframe src="assets/Case%201%20Liz%20Motors.pdf" width="50%" height="600" frameborder="0"></iframe>
 :::
 :::
 :::
@@ -76,15 +72,11 @@ Showcasing not just my projects throughout the years, but also my growth and dev
 ::: {.project-card}
 ::: {.project-details}
 - PDF: [Case II M&M Pizza.pdf](assets/Case%20II%20M%26M%20Pizza.pdf){target="_blank"}
-
-::: {.pdf-embed}
-<iframe src="assets/Case%20II%20M%26M%20Pizza.pdf" width="100%" height="600" frameborder="0"></iframe>
-:::
-
 - PDF: [M&M Pizza copy.pdf](assets/M%26M%20Pizza%20copy.pdf){target="_blank"}
 
-::: {.pdf-embed}
-<iframe src="assets/M%26M%20Pizza%20copy.pdf" width="100%" height="600" frameborder="0"></iframe>
+::: {.pdf-embed style="display: flex; gap: 1rem;"}
+<iframe src="assets/Case%20II%20M%26M%20Pizza.pdf" width="50%" height="600" frameborder="0"></iframe>
+<iframe src="assets/M%26M%20Pizza%20copy.pdf" width="50%" height="600" frameborder="0"></iframe>
 :::
 :::
 :::

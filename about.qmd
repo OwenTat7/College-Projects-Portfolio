@@ -6,6 +6,10 @@ Hi, I'm Owen. This site collects my projects, coursework, and media.
 
 - Email: octat@udel.edu
 - Phone: 267-481-3233
-- Resume: [Owen Tatlonghari Resume.pdf](assets/Owen%20Tatlonghari%20Resume.pdf)
+- Resume: [Owen Tatlonghari Resume.pdf](assets/Owen%20Tatlonghari%20Resume.pdf){target="_blank"}
+
+::: {.pdf-embed}
+<iframe src="assets/Owen%20Tatlonghari%20Resume.pdf" width="100%" height="600" frameborder="0"></iframe>
+:::
 
 This website is built with Quarto and deployed via GitHub Pages.
