@@ -21,13 +21,13 @@ page-layout: article
 <div class="project-card" id="projects">
   <div class="project-media">
     <div class="video-embed">
-      <iframe width="100%" height="315" src="https://www.youtube.com/watch?v=2V-NbOLcYc0" title="Freshman Year Proffesional Presentation Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      <iframe width="100%" height="315" src="https://www.youtube.com/embed/2V-NbOLcYc0" title="Freshman Year Professional Presentation Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
   </div>
   <div class="project-details">
     <h4>Essays</h4>
     <ul>
-      <li><a href="assets/docs/Generational%20Influence%20of%20Technology%20Research%20Essay.docx">Generational Influence of Technology Research Essay.docx</a></li>
+      <li><a href="assets/docs/Generational%20Influence%20of%20Technology%20Research%20Essay.docx" target="_blank">Generational Influence of Technology Research Essay.docx</a></li>
     </ul>
     <div class="doc-embed">
       <iframe
@@ -35,7 +35,7 @@ page-layout: article
         width="100%" height="600" frameborder="0"></iframe>
     </div>
     <ul>
-      <li><a href="assets/docs/English%20Research%20Project.docx">English Research Project.docx</a></li>
+      <li><a href="assets/docs/English%20Research%20Project.docx" target="_blank">English Research Project.docx</a></li>
     </ul>
     <div class="doc-embed">
       <iframe
@@ -50,7 +50,7 @@ page-layout: article
 <div class="project-card">
   <div class="project-details">
     <ul>
-      <li>Excel: <a href="assets/Case%201%20-%20Liz%20Motors%20copy.xlsx">Case 1 - Liz Motors.xlsx</a></li>
+      <li>Excel: <a href="assets/Case%201%20-%20Liz%20Motors%20copy.xlsx" target="_blank">Case 1 - Liz Motors.xlsx</a></li>
     </ul>
     <div class="doc-embed">
       <iframe
@@ -58,7 +58,7 @@ page-layout: article
         width="100%" height="600" frameborder="0"></iframe>
     </div>
     <ul>
-      <li>Word: <a href="assets/Case%201%20Liz%20Motors%20copy.docx">Case 1 Liz Motors.docx</a></li>
+      <li>Word: <a href="assets/Case%201%20Liz%20Motors%20copy.docx" target="_blank">Case 1 Liz Motors.docx</a></li>
     </ul>
     <div class="doc-embed">
       <iframe
@@ -73,7 +73,7 @@ page-layout: article
 <div class="project-card">
   <div class="project-details">
     <ul>
-      <li>Excel: <a href="assets/Case%20II%20M%26M%20Pizza.xlsx">Case II M&M Pizza.xlsx</a></li>
+      <li>Excel: <a href="assets/Case%20II%20M%26M%20Pizza.xlsx" target="_blank">Case II M&M Pizza.xlsx</a></li>
     </ul>
     <div class="doc-embed">
       <iframe
@@ -81,7 +81,7 @@ page-layout: article
         width="100%" height="600" frameborder="0"></iframe>
     </div>
     <ul>
-      <li>PDF: <a href="assets/M%26M%20Pizza%20copy.pdf">M&M Pizza copy.pdf</a></li>
+      <li>PDF: <a href="assets/M%26M%20Pizza%20copy.pdf" target="_blank">M&M Pizza copy.pdf</a></li>
     </ul>
     <div class="pdf-embed">
       <iframe src="assets/M%26M%20Pizza%20copy.pdf" width="100%" height="600" frameborder="0"></iframe>
@@ -100,7 +100,7 @@ page-layout: article
   </div>
   <div class="project-details">
     <ul>
-      <li><a href="Tatlonghari%20Owen%20PPT%20720p.mp4">Download video (720p MP4)</a></li>
+      <li><a href="Tatlonghari%20Owen%20PPT%20720p.mp4" target="_blank">Download video (720p MP4)</a></li>
     </ul>
   </div>
 </div>
