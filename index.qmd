@@ -8,9 +8,9 @@ page-layout: article
 
 - Add YouTube links below. Example:
 
-::: {.video-embed}
+:::: {.video-embed}
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=2V-NbOLcYc0" title="Freshman Year Proffesional Presentation Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-:::
+::::
 
 #### Essays - Freshman Year
 
@@ -29,7 +29,7 @@ page-layout: article
 
 ### Scoring Model / AHP Model Project - Junior Year
 
-- [Tatlonghari Owen PPT.pptx](assets/Tatlonghari%20Owen%20PPT%20copy.pptx)
+- [Tatlonghari Owen MOV](Tatlonghari%20Owen%20PPT.mov)
 
 ## Contact
 
