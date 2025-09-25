@@ -26,7 +26,6 @@ page-layout: article
   </div>
   <div class="project-details">
     <h4>Essays</h4>
-    <p class="muted">View inline below or download the files.</p>
     <ul>
       <li><a href="assets/docs/Generational%20Influence%20of%20Technology%20Research%20Essay.docx">Generational Influence of Technology Research Essay.docx</a></li>
     </ul>
