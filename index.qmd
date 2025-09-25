@@ -8,7 +8,8 @@ page-layout: article
 ::: {.hero-content}
 # Owen Tatlonghari
 
-Data-driven student showcasing projects in analytics, modeling, and communication.
+Data-driven student showcasing projects in analytics, finance, modeling, and communication.
+Showcasing not just my projects throughout the years, but also my growth and development as a student.
 
 ::: {.hero-actions}
 [View Projects]{.btn .btn-primary href="#projects"}
@@ -59,6 +60,12 @@ Data-driven student showcasing projects in analytics, modeling, and communicatio
 ::: {.pdf-embed}
 <iframe src="assets/Case%201%20-%20Liz%20Motors.pdf" width="100%" height="600" frameborder="0"></iframe>
 :::
+
+- PDF: [Case 1 Liz Motors.pdf](assets/Case%201%20Liz%20Motors.pdf){target="_blank"}
+
+::: {.pdf-embed}
+<iframe src="assets/Case%201%20Liz%20Motors.pdf" width="100%" height="600" frameborder="0"></iframe>
+:::
 :::
 :::
 
@@ -72,6 +79,12 @@ Data-driven student showcasing projects in analytics, modeling, and communicatio
 
 ::: {.pdf-embed}
 <iframe src="assets/Case%20II%20M%26M%20Pizza.pdf" width="100%" height="600" frameborder="0"></iframe>
+:::
+
+- PDF: [M&M Pizza copy.pdf](assets/M%26M%20Pizza%20copy.pdf){target="_blank"}
+
+::: {.pdf-embed}
+<iframe src="assets/M%26M%20Pizza%20copy.pdf" width="100%" height="600" frameborder="0"></iframe>
 :::
 :::
 :::
