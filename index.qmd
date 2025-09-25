@@ -6,60 +6,93 @@ page-layout: article
 
 ## Creative Video Project — Freshman Year
 
-- Add YouTube links below. Example:
+<div class="project-card">
+  <div class="project-media">
+    <div class="video-embed">
+      <iframe width="100%" height="315" src="https://www.youtube.com/watch?v=2V-NbOLcYc0" title="Freshman Year Proffesional Presentation Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>
+  </div>
+  <div class="project-details">
+    <h4>Essays</h4>
+    <p class="muted">View inline below or download the files.</p>
+    <ul>
+      <li><a href="assets/docs/Generational%20Influence%20of%20Technology%20Research%20Essay.docx">Generational Influence of Technology Research Essay.docx</a></li>
+    </ul>
+    <div class="doc-embed">
+      <iframe
+        src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fowentat7.github.io%2FCollege-Projects-Portfolio%2Fassets%2Fdocs%2FGenerational%2520Influence%2520of%2520Technology%2520Research%2520Essay.docx"
+        width="100%" height="600" frameborder="0"></iframe>
+    </div>
+    <ul>
+      <li><a href="assets/docs/English%20Research%20Project.docx">English Research Project.docx</a></li>
+    </ul>
+    <div class="doc-embed">
+      <iframe
+        src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fowentat7.github.io%2FCollege-Projects-Portfolio%2Fassets%2Fdocs%2FEnglish%2520Research%2520Project.docx"
+        width="100%" height="600" frameborder="0"></iframe>
+    </div>
+  </div>
+</div>
 
-:::: {.video-embed}
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=2V-NbOLcYc0" title="Freshman Year Proffesional Presentation Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-::::
+## Case 1 — Liz Motors — Junior Year
 
-#### Essays - Freshman Year
+<div class="project-card">
+  <div class="project-details">
+    <ul>
+      <li>Excel: <a href="assets/Case%201%20-%20Liz%20Motors%20copy.xlsx">Case 1 - Liz Motors.xlsx</a></li>
+    </ul>
+    <div class="doc-embed">
+      <iframe
+        src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fowentat7.github.io%2FCollege-Projects-Portfolio%2Fassets%2FCase%25201%2520-%2520Liz%2520Motors%2520copy.xlsx"
+        width="100%" height="600" frameborder="0"></iframe>
+    </div>
+    <ul>
+      <li>Word: <a href="assets/Case%201%20Liz%20Motors%20copy.docx">Case 1 Liz Motors.docx</a></li>
+    </ul>
+    <div class="doc-embed">
+      <iframe
+        src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fowentat7.github.io%2FCollege-Projects-Portfolio%2Fassets%2FCase%25201%2520Liz%2520Motors%2520copy.docx"
+        width="100%" height="600" frameborder="0"></iframe>
+    </div>
+  </div>
+</div>
 
-- [Generational Influence of Technology Research Essay.docx](assets/docs/Generational%20Influence%20of%20Technology%20Research%20Essay.docx)
+## Case II — M&M Pizza — Junior Year
 
-<iframe
-  src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fowentat7.github.io%2FCollege-Projects-Portfolio%2Fassets%2Fdocs%2FGenerational%2520Influence%2520of%2520Technology%2520Research%2520Essay.docx"
-  width="100%" height="600" frameborder="0"></iframe>
+<div class="project-card">
+  <div class="project-details">
+    <ul>
+      <li>Excel: <a href="assets/Case%20II%20M%26M%20Pizza.xlsx">Case II M&M Pizza.xlsx</a></li>
+    </ul>
+    <div class="doc-embed">
+      <iframe
+        src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fowentat7.github.io%2FCollege-Projects-Portfolio%2Fassets%2FCase%2520II%2520M%2526M%2520Pizza.xlsx"
+        width="100%" height="600" frameborder="0"></iframe>
+    </div>
+    <ul>
+      <li>PDF: <a href="assets/M%26M%20Pizza%20copy.pdf">M&M Pizza copy.pdf</a></li>
+    </ul>
+    <div class="pdf-embed">
+      <iframe src="assets/M%26M%20Pizza%20copy.pdf" width="100%" height="600" frameborder="0"></iframe>
+    </div>
+  </div>
+</div>
 
-- [English Research Project.docx](assets/docs/English%20Research%20Project.docx)
+## Scoring Model / AHP Model Project — Junior Year
 
-<iframe
-  src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fowentat7.github.io%2FCollege-Projects-Portfolio%2Fassets%2Fdocs%2FEnglish%2520Research%2520Project.docx"
-  width="100%" height="600" frameborder="0"></iframe>
-
-### Case 1 — Liz Motors - Junior Year
-
-- Excel: [Case 1 - Liz Motors.xlsx](assets/Case%201%20-%20Liz%20Motors%20copy.xlsx)
-
-<iframe
-  src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fowentat7.github.io%2FCollege-Projects-Portfolio%2Fassets%2FCase%25201%2520-%2520Liz%2520Motors%2520copy.xlsx"
-  width="100%" height="600" frameborder="0"></iframe>
-
-- Word: [Case 1 Liz Motors.docx](assets/Case%201%20Liz%20Motors%20copy.docx)
-
-<iframe
-  src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fowentat7.github.io%2FCollege-Projects-Portfolio%2Fassets%2FCase%25201%2520Liz%2520Motors%2520copy.docx"
-  width="100%" height="600" frameborder="0"></iframe>
-
-### Case II — M&M Pizza - Junior Year
-
-- Excel: [Case II M&M Pizza.xlsx](assets/Case%20II%20M%26M%20Pizza.xlsx)
-
-<iframe
-  src="https://view.officeapps.live.com/op/embed.aspx?src=https%3A%2F%2Fowentat7.github.io%2FCollege-Projects-Portfolio%2Fassets%2FCase%2520II%2520M%2526M%2520Pizza.xlsx"
-  width="100%" height="600" frameborder="0"></iframe>
-
-- PDF: [M&M Pizza copy.pdf](assets/M%26M%20Pizza%20copy.pdf)
-
-<iframe src="assets/M%26M%20Pizza%20copy.pdf" width="100%" height="600" frameborder="0"></iframe>
-
-### Scoring Model / AHP Model Project - Junior Year
-
-- [Tatlonghari Owen Video (720p MP4)](Tatlonghari%20Owen%20PPT%20720p.mp4)
-
-<video width="100%" height="auto" controls>
-  <source src="Tatlonghari%20Owen%20PPT%20720p.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div class="project-card">
+  <div class="project-media">
+    <video width="100%" height="auto" controls>
+      <source src="Tatlonghari%20Owen%20PPT%20720p.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+  <div class="project-details">
+    <ul>
+      <li><a href="Tatlonghari%20Owen%20PPT%20720p.mp4">Download video (720p MP4)</a></li>
+    </ul>
+  </div>
+</div>
 
 ## Contact
 
