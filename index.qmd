@@ -4,101 +4,106 @@ description: Portfolio of projects, videos, and documents
 page-layout: article
 ---
 
-<div class="hero">
-  <div class="hero-content">
-    <h1>Owen Tatlonghari</h1>
-    <p class="subtitle">Data-driven student showcasing projects in analytics, modeling, and communication.</p>
-    <div class="hero-actions">
-      <a class="btn btn-primary" href="#projects">View Projects</a>
-      <a class="btn btn-outline" href="https://github.com/your-username" target="_blank">GitHub</a>
-      <a class="btn btn-outline" href="https://linkedin.com/in/your-handle" target="_blank">LinkedIn</a>
-    </div>
-  </div>
-</div>
+::: {.hero}
+::: {.hero-content}
+# Owen Tatlonghari
+
+Data-driven student showcasing projects in analytics, modeling, and communication.
+
+::: {.hero-actions}
+[View Projects]{.btn .btn-primary href="#projects"}
+[GitHub]{.btn .btn-outline href="https://github.com/your-username" target="_blank"}
+[LinkedIn]{.btn .btn-outline href="https://linkedin.com/in/your-handle" target="_blank"}
+:::
+:::
+:::
 
 ## Creative Video Project — Freshman Year
 
-<div class="project-card" id="projects">
-  <div class="project-media">
-    <div class="video-embed">
-      <iframe width="100%" height="315" src="https://www.youtube.com/embed/2V-NbOLcYc0" title="Freshman Year Professional Presentation Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    </div>
-  </div>
-  <div class="project-details">
-    <h4>Essays</h4>
-    <ul>
-      <li><a href="assets/docs/Generational%20Influence%20of%20Technology%20Research%20Essay.docx" target="_blank">Generational Influence of Technology Research Essay.docx</a></li>
-    </ul>
-    <div class="doc-embed">
-      <p><strong>Document Preview:</strong> Click the link above to download and view the essay.</p>
-      <p><em>Note: For best viewing experience, download the document to open in Microsoft Word or Google Docs.</em></p>
-    </div>
-    <ul>
-      <li><a href="assets/docs/English%20Research%20Project.docx" target="_blank">English Research Project.docx</a></li>
-    </ul>
-    <div class="doc-embed">
-      <p><strong>Document Preview:</strong> Click the link above to download and view the essay.</p>
-      <p><em>Note: For best viewing experience, download the document to open in Microsoft Word or Google Docs.</em></p>
-    </div>
-  </div>
-</div>
+::: {.project-card #projects}
+::: {.project-media}
+::: {.video-embed}
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/2V-NbOLcYc0" title="Freshman Year Professional Presentation Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:::
+:::
+
+::: {.project-details}
+#### Essays
+
+- [Generational Influence of Technology Research Essay.docx](assets/docs/Generational%20Influence%20of%20Technology%20Research%20Essay.docx){target="_blank"}
+
+::: {.doc-embed}
+**Document Preview:** Click the link above to download and view the essay.
+
+*Note: For best viewing experience, download the document to open in Microsoft Word or Google Docs.*
+:::
+
+- [English Research Project.docx](assets/docs/English%20Research%20Project.docx){target="_blank"}
+
+::: {.doc-embed}
+**Document Preview:** Click the link above to download and view the essay.
+
+*Note: For best viewing experience, download the document to open in Microsoft Word or Google Docs.*
+:::
+:::
+:::
 
 ## Case 1 — Liz Motors — Junior Year
 
-<div class="project-card">
-  <div class="project-details">
-    <ul>
-      <li>Excel: <a href="assets/Case%201%20-%20Liz%20Motors%20copy.xlsx" target="_blank">Case 1 - Liz Motors.xlsx</a></li>
-    </ul>
-    <div class="doc-embed">
-      <p><strong>Excel File:</strong> Click the link above to download and view the spreadsheet.</p>
-      <p><em>Note: For best viewing experience, download the file to open in Microsoft Excel or Google Sheets.</em></p>
-    </div>
-    <ul>
-      <li>Word: <a href="assets/Case%201%20Liz%20Motors%20copy.docx" target="_blank">Case 1 Liz Motors.docx</a></li>
-    </ul>
-    <div class="doc-embed">
-      <p><strong>Word Document:</strong> Click the link above to download and view the document.</p>
-      <p><em>Note: For best viewing experience, download the file to open in Microsoft Word or Google Docs.</em></p>
-    </div>
-  </div>
-</div>
+::: {.project-card}
+::: {.project-details}
+- Excel: [Case 1 - Liz Motors.xlsx](assets/Case%201%20-%20Liz%20Motors%20copy.xlsx){target="_blank"}
+
+::: {.doc-embed}
+**Excel File:** Click the link above to download and view the spreadsheet.
+
+*Note: For best viewing experience, download the file to open in Microsoft Excel or Google Sheets.*
+:::
+
+- Word: [Case 1 Liz Motors.docx](assets/Case%201%20Liz%20Motors%20copy.docx){target="_blank"}
+
+::: {.doc-embed}
+**Word Document:** Click the link above to download and view the document.
+
+*Note: For best viewing experience, download the file to open in Microsoft Word or Google Docs.*
+:::
+:::
+:::
 
 ## Case II — M&M Pizza — Junior Year
 
-<div class="project-card">
-  <div class="project-details">
-    <ul>
-      <li>Excel: <a href="assets/Case%20II%20M%26M%20Pizza.xlsx" target="_blank">Case II M&M Pizza.xlsx</a></li>
-    </ul>
-    <div class="doc-embed">
-      <p><strong>Excel File:</strong> Click the link above to download and view the spreadsheet.</p>
-      <p><em>Note: For best viewing experience, download the file to open in Microsoft Excel or Google Sheets.</em></p>
-    </div>
-    <ul>
-      <li>PDF: <a href="assets/M%26M%20Pizza%20copy.pdf" target="_blank">M&M Pizza copy.pdf</a></li>
-    </ul>
-    <div class="pdf-embed">
-      <iframe src="assets/M%26M%20Pizza%20copy.pdf" width="100%" height="600" frameborder="0"></iframe>
-    </div>
-  </div>
-</div>
+::: {.project-card}
+::: {.project-details}
+- Excel: [Case II M&M Pizza.xlsx](assets/Case%20II%20M%26M%20Pizza.xlsx){target="_blank"}
+
+::: {.doc-embed}
+**Excel File:** Click the link above to download and view the spreadsheet.
+
+*Note: For best viewing experience, download the file to open in Microsoft Excel or Google Sheets.*
+:::
+
+- PDF: [M&M Pizza copy.pdf](assets/M%26M%20Pizza%20copy.pdf){target="_blank"}
+
+::: {.pdf-embed}
+<iframe src="assets/M%26M%20Pizza%20copy.pdf" width="100%" height="600" frameborder="0"></iframe>
+:::
+:::
+:::
 
 ## Scoring Model / AHP Model Project — Junior Year
 
-<div class="project-card">
-  <div class="project-media">
-    <video width="100%" height="auto" controls>
-      <source src="Tatlonghari%20Owen%20PPT%20720p.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-  </div>
-  <div class="project-details">
-    <ul>
-      <li><a href="Tatlonghari%20Owen%20PPT%20720p.mp4" target="_blank">Download video (720p MP4)</a></li>
-    </ul>
-  </div>
-</div>
+::: {.project-card}
+::: {.project-media}
+<video width="100%" height="auto" controls>
+  <source src="Tatlonghari%20Owen%20PPT%20720p.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+:::
+
+::: {.project-details}
+- [Download video (720p MP4)](Tatlonghari%20Owen%20PPT%20720p.mp4){target="_blank"}
+:::
+:::
 
 ## Contact
 

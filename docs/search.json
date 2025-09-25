@@ -11,35 +11,35 @@
     "href": "index.html",
     "title": "Welcome",
     "section": "",
-    "text": "&lt;h1&gt;Owen Tatlonghari&lt;/h1&gt;\n&lt;p class=\"subtitle\"&gt;Data-driven student showcasing projects in analytics, modeling, and communication.&lt;/p&gt;\n&lt;div class=\"hero-actions\"&gt;\n  &lt;a class=\"btn btn-primary\" href=\"#projects\"&gt;View Projects&lt;/a&gt;\n  &lt;a class=\"btn btn-outline\" href=\"https://github.com/your-username\" target=\"_blank\"&gt;GitHub&lt;/a&gt;\n  &lt;a class=\"btn btn-outline\" href=\"https://linkedin.com/in/your-handle\" target=\"_blank\"&gt;LinkedIn&lt;/a&gt;\n&lt;/div&gt;"
+    "text": "Data-driven student showcasing projects in analytics, modeling, and communication.\n\nView Projects GitHub LinkedIn"
   },
   {
     "objectID": "index.html#creative-video-project-freshman-year",
     "href": "index.html#creative-video-project-freshman-year",
     "title": "Welcome",
     "section": "Creative Video Project — Freshman Year",
-    "text": "Creative Video Project — Freshman Year\n\n\n&lt;div class=\"video-embed\"&gt;\n  &lt;iframe width=\"100%\" height=\"315\" src=\"https://www.youtube.com/embed/2V-NbOLcYc0\" title=\"Freshman Year Professional Presentation Project\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" allowfullscreen&gt;&lt;/iframe&gt;\n&lt;/div&gt;\n\n\n&lt;h4&gt;Essays&lt;/h4&gt;\n&lt;ul&gt;\n  &lt;li&gt;&lt;a href=\"assets/docs/Generational%20Influence%20of%20Technology%20Research%20Essay.docx\" target=\"_blank\"&gt;Generational Influence of Technology Research Essay.docx&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div class=\"doc-embed\"&gt;\n  &lt;p&gt;&lt;strong&gt;Document Preview:&lt;/strong&gt; Click the link above to download and view the essay.&lt;/p&gt;\n  &lt;p&gt;&lt;em&gt;Note: For best viewing experience, download the document to open in Microsoft Word or Google Docs.&lt;/em&gt;&lt;/p&gt;\n&lt;/div&gt;\n&lt;ul&gt;\n  &lt;li&gt;&lt;a href=\"assets/docs/English%20Research%20Project.docx\" target=\"_blank\"&gt;English Research Project.docx&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div class=\"doc-embed\"&gt;\n  &lt;p&gt;&lt;strong&gt;Document Preview:&lt;/strong&gt; Click the link above to download and view the essay.&lt;/p&gt;\n  &lt;p&gt;&lt;em&gt;Note: For best viewing experience, download the document to open in Microsoft Word or Google Docs.&lt;/em&gt;&lt;/p&gt;\n&lt;/div&gt;"
+    "text": "Creative Video Project — Freshman Year\n\n\n\n\n\n\n\n\nEssays\n\nGenerational Influence of Technology Research Essay.docx\n\n\nDocument Preview: Click the link above to download and view the essay.\nNote: For best viewing experience, download the document to open in Microsoft Word or Google Docs.\n\n\nEnglish Research Project.docx\n\n\nDocument Preview: Click the link above to download and view the essay.\nNote: For best viewing experience, download the document to open in Microsoft Word or Google Docs."
   },
   {
     "objectID": "index.html#case-1-liz-motors-junior-year",
     "href": "index.html#case-1-liz-motors-junior-year",
     "title": "Welcome",
     "section": "Case 1 — Liz Motors — Junior Year",
-    "text": "Case 1 — Liz Motors — Junior Year\n\n\n&lt;ul&gt;\n  &lt;li&gt;Excel: &lt;a href=\"assets/Case%201%20-%20Liz%20Motors%20copy.xlsx\" target=\"_blank\"&gt;Case 1 - Liz Motors.xlsx&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div class=\"doc-embed\"&gt;\n  &lt;p&gt;&lt;strong&gt;Excel File:&lt;/strong&gt; Click the link above to download and view the spreadsheet.&lt;/p&gt;\n  &lt;p&gt;&lt;em&gt;Note: For best viewing experience, download the file to open in Microsoft Excel or Google Sheets.&lt;/em&gt;&lt;/p&gt;\n&lt;/div&gt;\n&lt;ul&gt;\n  &lt;li&gt;Word: &lt;a href=\"assets/Case%201%20Liz%20Motors%20copy.docx\" target=\"_blank\"&gt;Case 1 Liz Motors.docx&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div class=\"doc-embed\"&gt;\n  &lt;p&gt;&lt;strong&gt;Word Document:&lt;/strong&gt; Click the link above to download and view the document.&lt;/p&gt;\n  &lt;p&gt;&lt;em&gt;Note: For best viewing experience, download the file to open in Microsoft Word or Google Docs.&lt;/em&gt;&lt;/p&gt;\n&lt;/div&gt;"
+    "text": "Case 1 — Liz Motors — Junior Year\n\n\n\nExcel: Case 1 - Liz Motors.xlsx\n\n\nExcel File: Click the link above to download and view the spreadsheet.\nNote: For best viewing experience, download the file to open in Microsoft Excel or Google Sheets.\n\n\nWord: Case 1 Liz Motors.docx\n\n\nWord Document: Click the link above to download and view the document.\nNote: For best viewing experience, download the file to open in Microsoft Word or Google Docs."
   },
   {
     "objectID": "index.html#case-ii-mm-pizza-junior-year",
     "href": "index.html#case-ii-mm-pizza-junior-year",
     "title": "Welcome",
     "section": "Case II — M&M Pizza — Junior Year",
-    "text": "Case II — M&M Pizza — Junior Year\n\n\n&lt;ul&gt;\n  &lt;li&gt;Excel: &lt;a href=\"assets/Case%20II%20M%26M%20Pizza.xlsx\" target=\"_blank\"&gt;Case II M&M Pizza.xlsx&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div class=\"doc-embed\"&gt;\n  &lt;p&gt;&lt;strong&gt;Excel File:&lt;/strong&gt; Click the link above to download and view the spreadsheet.&lt;/p&gt;\n  &lt;p&gt;&lt;em&gt;Note: For best viewing experience, download the file to open in Microsoft Excel or Google Sheets.&lt;/em&gt;&lt;/p&gt;\n&lt;/div&gt;\n&lt;ul&gt;\n  &lt;li&gt;PDF: &lt;a href=\"assets/M%26M%20Pizza%20copy.pdf\" target=\"_blank\"&gt;M&M Pizza copy.pdf&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;div class=\"pdf-embed\"&gt;\n  &lt;iframe src=\"assets/M%26M%20Pizza%20copy.pdf\" width=\"100%\" height=\"600\" frameborder=\"0\"&gt;&lt;/iframe&gt;\n&lt;/div&gt;"
+    "text": "Case II — M&M Pizza — Junior Year\n\n\n\nExcel: Case II M&M Pizza.xlsx\n\n\nExcel File: Click the link above to download and view the spreadsheet.\nNote: For best viewing experience, download the file to open in Microsoft Excel or Google Sheets.\n\n\nPDF: M&M Pizza copy.pdf"
   },
   {
     "objectID": "index.html#scoring-model-ahp-model-project-junior-year",
     "href": "index.html#scoring-model-ahp-model-project-junior-year",
     "title": "Welcome",
     "section": "Scoring Model / AHP Model Project — Junior Year",
-    "text": "Scoring Model / AHP Model Project — Junior Year\n\n\n&lt;video width=\"100%\" height=\"auto\" controls&gt;\n  &lt;source src=\"Tatlonghari%20Owen%20PPT%20720p.mp4\" type=\"video/mp4\"&gt;\n  Your browser does not support the video tag.\n&lt;/video&gt;\n\n\n&lt;ul&gt;\n  &lt;li&gt;&lt;a href=\"Tatlonghari%20Owen%20PPT%20720p.mp4\" target=\"_blank\"&gt;Download video (720p MP4)&lt;/a&gt;&lt;/li&gt;\n&lt;/ul&gt;"
+    "text": "Scoring Model / AHP Model Project — Junior Year\n\n\n\n\nYour browser does not support the video tag. \n:::\n\n\nDownload video (720p MP4)\n\n\n:::\n\nContact\n\nGitHub: https://github.com/your-username\nLinkedIn: https://linkedin.com/in/your-handle"
   },
   {
     "objectID": "index.html#contact",
