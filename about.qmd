@@ -1,0 +1,10 @@
+---
+title: About
+---
+
+Hi, I'm Owen. This site collects my projects, coursework, and media.
+
+- Email: you@example.com
+- Resume: [resume.pdf](assets/resume.pdf)
+
+This website is built with Quarto and deployed via GitHub Pages.

@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - assets/**
+website:
+  title: Owen Tatlonghari Portfolio
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Projects
+      - href: about.qmd
+        text: About
+format:
+  html:
+    theme: cosmo
+    css: styles.css

@@ -1,0 +1,37 @@
+---
+title: Welcome
+description: Portfolio of projects, videos, and documents
+page-layout: article
+---
+
+## Creative Video Project — Freshman Year
+
+- Add YouTube links below. Example:
+
+::: {.video-embed}
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=2V-NbOLcYc0" title="Freshman Year Proffesional Presentation Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:::
+
+#### Essays - Freshman Year
+
+- [Generational Influence of Technology Research Essay.docx](assets/docs/Generational%20Influence%20of%20Technology%20Research%20Essay.docx)
+- [English Research Project.docx](assets/docs/English%20Research%20Project.docx)
+
+### Case 1 — Liz Motors - Junior Year
+
+- Excel: [Case 1 - Liz Motors.xlsx](assets/Case%201%20-%20Liz%20Motors%20copy.xlsx)
+- Word: [Case 1 Liz Motors.docx](assets/Case%201%20Liz%20Motors%20copy.docx)
+
+### Case II — M&M Pizza - Junior Year
+
+- Excel: [Case II M&M Pizza.xlsx](assets/Case%20II%20M%26M%20Pizza.xlsx)
+- PDF: [M&M Pizza copy.pdf](assets/M%26M%20Pizza%20copy.pdf)
+
+### Scoring Model / AHP Model Project - Junior Year
+
+- [Tatlonghari Owen PPT.pptx](assets/Tatlonghari%20Owen%20PPT%20copy.pptx)
+
+## Contact
+
+- GitHub: <https://github.com/your-username>
+- LinkedIn: <https://linkedin.com/in/your-handle>

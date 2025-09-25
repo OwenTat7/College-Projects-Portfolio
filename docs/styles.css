@@ -1,0 +1,9 @@
+/* basic custom styles */
+.video-embed {
+  max-width: 720px;
+  margin: 1rem 0;
+}
+
+.navbar-brand {
+  font-weight: 600;
+}
