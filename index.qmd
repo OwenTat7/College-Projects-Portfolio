@@ -16,7 +16,9 @@ Showcasing not just my projects throughout the years, but also my growth and dev
 <a class="btn btn-outline" href="https://github.com/OwenTat7" target="_blank">GitHub</a>
 <a class="btn btn-outline" href="https://linkedin.com/in/owen-tatlonghari" target="_blank">LinkedIn</a>
 :::
+
 :::
+
 :::
 
 ## Creative Projects — Freshman Year
@@ -46,105 +48,78 @@ Showcasing not just my projects throughout the years, but also my growth and dev
 
 *Note: For best viewing experience, download the document to open in Microsoft Word or Google Docs.*
 :::
+
 :::
+
 :::
 
 ## Case 1 — Liz Motors — Junior Year
 
 *Group project completed in FINC312 Intermediate Financial Management at the University of Delaware*
 
-::: {.project-card}
-::: {.project-details}
-- PDF: [Case 1 - Liz Motors.pdf](assets/Case%201%20-%20Liz%20Motors.pdf){target="_blank"}
-- PDF: [Case 1 Liz Motors.pdf](assets/Case%201%20Liz%20Motors.pdf){target="_blank"}
+[Download PDF (Case 1 – Liz Motors)](assets/Case%201%20-%20Liz%20Motors.pdf){target="_blank"}  
+[Download PDF (Case 1 – Liz Motors Copy)](assets/Case%201%20Liz%20Motors.pdf){target="_blank"}
 
-::: {.pdf-embed style="display: flex; gap: 1rem;"}
-<iframe src="assets/Case%201%20-%20Liz%20Motors.pdf" width="50%" height="600" frameborder="0"></iframe>
-<iframe src="assets/Case%201%20Liz%20Motors.pdf" width="50%" height="600" frameborder="0"></iframe>
-:::
-:::
-:::
+<div style="display:flex; justify-content:center; gap:1rem; flex-wrap: wrap; width:100%; max-width:1200px; margin:auto;">
+  <iframe src="assets/Case%201%20-%20Liz%20Motors.pdf" style="flex:0 0 48%; height:500px;" frameborder="0"></iframe>
+  <iframe src="assets/Case%201%20Liz%20Motors.pdf" style="flex:0 0 48%; height:500px;" frameborder="0"></iframe>
+</div>
+
+---
 
 ## Case II — M&M Pizza — Junior Year
 
 *Group project completed in FINC312 Intermediate Financial Management at the University of Delaware*
 
-::: {.project-card}
-::: {.project-details}
-- PDF: [Case II M&M Pizza.pdf](assets/Case%20II%20M%26M%20Pizza.pdf){target="_blank"}
-- PDF: [M&M Pizza copy.pdf](assets/M%26M%20Pizza%20copy.pdf){target="_blank"}
+[Download PDF (Case II – M&M Pizza)](assets/Case_II_M_M_Pizza.pdf){target="_blank"}  
+[Download PDF (M&M Pizza Copy)](assets/M_M_Pizza_copy.pdf){target="_blank"}
 
-::: {.pdf-embed style="display: flex; gap: 1rem;"}
-<iframe src="assets/Case%20II%20M%26M%20Pizza.pdf" width="50%" height="600" frameborder="0"></iframe>
-<iframe src="assets/M%26M%20Pizza%20copy.pdf" width="50%" height="600" frameborder="0"></iframe>
-:::
-:::
-:::
+<div style="display:flex; justify-content:center; gap:1rem; flex-wrap: wrap; width:100%; max-width:1200px; margin:auto;">
+  <iframe src="assets/Case_II_M_M_Pizza.pdf" style="flex:0 0 48%; height:500px;" frameborder="0"></iframe>
+  <iframe src="assets/M_M_Pizza_copy.pdf" style="flex:0 0 48%; height:500px;" frameborder="0"></iframe>
+</div>
+
+---
+
 
 ## Scoring Model / AHP Model Project — Junior Year
 
-::: {.project-card}
-::: {.project-media}
 <video width="100%" height="auto" controls>
   <source src="Tatlonghari%20Owen%20PPT%20720p.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-:::
 
-::: {.project-details}
-- [Download video (720p MP4)](Tatlonghari%20Owen%20PPT%20720p.mp4){target="_blank"}
-:::
-:::
+[Download video (720p MP4)](Tatlonghari%20Owen%20PPT%20720p.mp4){target="_blank"}
+
+---
 
 ## MISY 331: Machine Learning for Business Final Project
 
 *Group project completed in MISY331 Machine Learning for Business at the University of Delaware*
 
-::: {.project-card}
-::: {.project-details}
-- PDF: [MISY331 Final.pdf](assets/MISY331%20Final%20.pdf){target="_blank"}
+[Download PDF (MISY331 Final)](assets/MISY331_Final.pdf){target="_blank"}
 
-::: {.pdf-embed}
-<iframe src="assets/MISY331%20Final%20.pdf" width="100%" height="600" frameborder="0"></iframe>
-:::
+<!-- PDF preview -->
+<div style="display:flex; justify-content:center; width:100%; max-width:1200px; margin:auto; margin-bottom:1rem;">
+  <iframe src="assets/MISY331_Final.pdf" style="flex:0 0 100%; height:500px; border:1px solid #ccc; border-radius:5px;" frameborder="0"></iframe>
+</div>
 
-**Project Notebooks (HTML Format):**
+<!-- Notebook & Model Links -->
+<h4>Project Notebooks & Model File</h4>
+<div style="display:flex; flex-wrap: wrap; gap:1rem; justify-content:flex-start; width:100%; max-width:1200px; margin:auto;">
+  <a href="assets/1_EDA_Cleaning.html" target="_blank" style="padding:0.75rem 1rem; border:1px solid #ccc; border-radius:5px; text-decoration:none; background:#f9f9f9; text-align:center; transition:background-color 0.3s; flex:1 1 200px; box-sizing:border-box;">1. EDA & Cleaning</a>
+  <a href="assets/2_Pre-Analysis%20Visualization.html" target="_blank" style="padding:0.75rem 1rem; border:1px solid #ccc; border-radius:5px; text-decoration:none; background:#f9f9f9; text-align:center; transition:background-color 0.3s; flex:1 1 200px; box-sizing:border-box;">2. Pre-Analysis Visualization</a>
+  <a href="assets/3_Ridge%20Regression.html" target="_blank" style="padding:0.75rem 1rem; border:1px solid #ccc; border-radius:5px; text-decoration:none; background:#f9f9f9; text-align:center; transition:background-color 0.3s; flex:1 1 200px; box-sizing:border-box;">3. Ridge Regression</a>
+  <a href="assets/4_Random%20Forests.html" target="_blank" style="padding:0.75rem 1rem; border:1px solid #ccc; border-radius:5px; text-decoration:none; background:#f9f9f9; text-align:center; transition:background-color 0.3s; flex:1 1 200px; box-sizing:border-box;">4. Random Forests</a>
+  <a href="assets/5_BoostedTree.html" target="_blank" style="padding:0.75rem 1rem; border:1px solid #ccc; border-radius:5px; text-decoration:none; background:#f9f9f9; text-align:center; transition:background-color 0.3s; flex:1 1 200px; box-sizing:border-box;">5. Boosted Tree</a>
+  <a href="assets/6_Bayesian%20Network.html" target="_blank" style="padding:0.75rem 1rem; border:1px solid #ccc; border-radius:5px; text-decoration:none; background:#f9f9f9; text-align:center; transition:background-color 0.3s; flex:1 1 200px; box-sizing:border-box;">6. Bayesian Network</a>
+  <a href="assets/7_Clustering.html" target="_blank" style="padding:0.75rem 1rem; border:1px solid #ccc; border-radius:5px; text-decoration:none; background:#f9f9f9; text-align:center; transition:background-color 0.3s; flex:1 1 200px; box-sizing:border-box;">7. Clustering</a>
+  <a href="assets/8_Neural_Network.html" target="_blank" style="padding:0.75rem 1rem; border:1px solid #ccc; border-radius:5px; text-decoration:none; background:#f9f9f9; text-align:center; transition:background-color 0.3s; flex:1 1 200px; box-sizing:border-box;">8. Neural Network</a>
+  <a href="assets/9_ResultVisualization.html" target="_blank" style="padding:0.75rem 1rem; border:1px solid #ccc; border-radius:5px; text-decoration:none; background:#f9f9f9; text-align:center; transition:background-color 0.3s; flex:1 1 200px; box-sizing:border-box;">9. Result Visualization</a>
+  <a href="assets/xgb_model2.pkl" target="_blank" style="padding:0.75rem 1rem; border:1px solid #ccc; border-radius:5px; text-decoration:none; background:#f9f9f9; text-align:center; transition:background-color 0.3s; flex:1 1 200px; box-sizing:border-box;">Model File: xgb_model2.pkl</a>
+</div>
 
-::: {.notebook-grid}
-**Data Preprocessing:**
-- [1. EDA & Cleaning](assets/1_EDA_Cleaning.html){target="_blank"}
-- [2. Pre-Analysis Visualization](assets/2_Pre-Analysis%20Visualization.html){target="_blank"}
+<p>This project demonstrates comprehensive machine learning techniques including data preprocessing, multiple modeling approaches, and result presentation and visualization.</p>
 
-**Machine Learning Models:**
-- [3. Ridge Regression](assets/3_Ridge%20Regression.html){target="_blank"}
-- [4. Random Forests](assets/4_Random%20Forests.html){target="_blank"}
-- [5. Boosted Tree](assets/5_BoostedTree.html){target="_blank"}
-- [6. Bayesian Network](assets/6_Bayesian%20Network.html){target="_blank"}
-- [7. Clustering](assets/7_Clustering.html){target="_blank"}
-- [8. Neural Network](assets/8_Neural_Network.html){target="_blank"}
+---
 
-**Results & Visualization:**
-- [9. Result Visualization](assets/9_ResultVisualization.html){target="_blank"}
-- [Model File: xgb_model2.pkl](assets/xgb_model2.pkl){target="_blank"}
-:::
-
-*This project demonstrates comprehensive machine learning techniques including data preprocessing, multiple modeling approaches, and result presentation and visualization.*
-:::
-:::
-
-## Resume
-
-::: {.project-card}
-::: {.project-details}
-- PDF: [Owen Tatlonghari Resume.pdf](assets/Owen%20Tatlonghari%20Resume.pdf){target="_blank"}
-
-::: {.pdf-embed}
-<iframe src="assets/Owen%20Tatlonghari%20Resume.pdf" width="100%" height="600" frameborder="0"></iframe>
-:::
-:::
-:::
-
-## Contact
-
-- GitHub: <https://github.com/OwenTat7>
-- LinkedIn: <https://linkedin.com/in/owen-tatlonghari>
